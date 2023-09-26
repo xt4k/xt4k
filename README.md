@@ -1,3 +1,6 @@
+
+k = {\color{red}x} \mathbin{\color{blue}-} 2
+
 <span style="color:red">
 # Text content
 </span>
