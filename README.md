@@ -2,7 +2,7 @@
 # Markdown
 
 # Markdown
-     <span style="color:red;">your text here > </span>
+     <span style="color:red">your text here</span>
     ---
     output: pdf_document
     ---
