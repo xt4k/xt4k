@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yuriy Logvinov</h1>
+<h1 align="center">Yuriy Logvinov</h1>
 <h3 align="center">An certified Automation QA engineer with developer experience</h3>
 
 - 🔭 I’m currently working on **Foxminded school**
