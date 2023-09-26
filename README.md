@@ -62,25 +62,10 @@ Current tasks:
 
 <h4 align="left">API:</h4>
 
-| Postman | Swagger | Dev Tools | Fiddler |
-|:------:|:-----:|:-----:|:-----:|
-| <img src="https://github.com/xt4k/xt4k/assets/38681283/764a1839-fe75-4d4e-9115-87e7f02c540b" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/9f0d2f91-d20e-41bc-abc3-6ca9883b7424" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/4af50c2b-17c1-4903-b808-e086d4478cac" width="110" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/95c4a9a5-cf5e-474b-8ff0-f542f1288a9e" width="60" height="60"> | 
+| Postman | Swagger | Dev Tools | Fiddler | Rest Assured | 
+|:------:|:-----:|:-----:|:-----:|:-----:|
+| <img src="https://github.com/xt4k/xt4k/assets/38681283/764a1839-fe75-4d4e-9115-87e7f02c540b" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/9f0d2f91-d20e-41bc-abc3-6ca9883b7424" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/4af50c2b-17c1-4903-b808-e086d4478cac" width="110" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/95c4a9a5-cf5e-474b-8ff0-f542f1288a9e" width="60" height="60"> | <img src="https://user-images.githubusercontent.com/38681283/120566097-335da880-c417-11eb-9e7b-248f6d5d4370.png" width="70" height="60"> |
 
-![image](https://github.com/xt4k/xt4k/assets/38681283/4af50c2b-17c1-4903-b808-e086d4478cac)
-![image](https://github.com/xt4k/xt4k/assets/38681283/764a1839-fe75-4d4e-9115-87e7f02c540b)
-
-![image](https://github.com/xt4k/xt4k/assets/38681283/9f0d2f91-d20e-41bc-abc3-6ca9883b7424)
-
-![image](https://github.com/xt4k/xt4k/assets/38681283/95c4a9a5-cf5e-474b-8ff0-f542f1288a9e)
-
-
-
-API
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-Fiddler
 
 
 =========================================================================================================================================================================================
