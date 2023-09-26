@@ -3,7 +3,7 @@
 <h3 align="center">An certified Automation QA engineer with developer experience</h3>
 <h4 align="left" color="black">In a few words:</h4>
 <h5>I am AQA engineer with 10+ years experience in web/mobile/desktop applications testing - automated and manual. I have extensive experience working with multi-level automated test frameworks, including building from scratch or developing existing ones. I can create automatic product quality control system, or bring new solutions/approaches to an existing one.</h5>
-<h7 align="left" color="black">About "building from the scratch" experience - At on one of my projecta I have developed **from the scratch** a high-efficient modern cloud-based CI-CD system with automated testing, integrated to project control tools (like Jira, Test Rail, Confluence) and communication tools (like MS Teams, e-mail, Telegram, Skype, etc..).</h7>
+<h5 align="left" color="black">About "building from the scratch" experience - At on one of my projecta I have developed **from the scratch** a high-efficient modern cloud-based CI-CD system with automated testing, integrated to project control tools (like Jira, Test Rail, Confluence) and communication tools (like MS Teams, e-mail, Telegram, Skype, etc..).</h5>
 
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>  I’m currently learning [**Python automated testing stack**](https://www.udemy.com/course/learn-selenium-automation-in-easy-python-language)
