@@ -90,9 +90,6 @@ Current tasks:
 <img src="https://user-images.githubusercontent.com/38681283/120563090-72d4c680-c410-11eb-8a3f-2309be0a818f.png" width="40" height="40"> |<img src="https://user-images.githubusercontent.com/38681283/120566097-335da880-c417-11eb-9e7b-248f6d5d4370.png" width="50" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120566010-eed20d00-c416-11eb-940d-56923ceff1bf.png" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120563529-79b00900-c411-11eb-8ab7-d5caf8b11ac1.png" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120565685-4ae86180-c416-11eb-9e62-42edc0e07e14.png" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120563229-bf200680-c410-11eb-91a6-d54243d0cda6.png" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120566160-54be9480-c417-11eb-86b7-4445fcdc8183.png" width="40" height="40"> |
 
 =========================================================================================================================================================================================
-
-## Technology stack
-
 | Jakarta | Lombok |
 |:------------:|:-------:|
 | <img src="https://user-images.githubusercontent.com/38681283/248458847-7136dbda-f182-471f-9ee8-c8963e9cbd17.png" width="60" height="60"> | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/e064428e-560c-4357-b2aa-2501a7d7da1b.png" width="60" height="60"> |
