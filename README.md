@@ -1,6 +1,10 @@
-# $\color{red}{This \space page \space is \space under \space construction \space now}$
+$\color{red}{This \space page \space is \space under \space construction \space now}$
 
 # $\textcolor{yellow}{This\ is\ a\ Big\ Title}$
+
+\color{blue!20}
+\color{blue!20!black}
+\color{blue!20!black!30!green}
 
 
 <h1 align="center">Yuriy Logvinov</h1>
