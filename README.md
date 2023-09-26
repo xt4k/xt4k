@@ -5,6 +5,13 @@
 ## YURIY LOGVINOV
 ### Software Development Engineer in Test / Automarion QA Engineer
 [![Telegram](https://img.shields.io/badge/-Telegram-0b0a1a?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yuriy_logvinov)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/yuriy-logvinov/)
+
+[![Telegram](https://img.shields.io/badge/-Telegram-0b0a1a?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yuriy_logvinov)
+
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 ## with 10+ years experience in Quality Assurance and 
 ## I have experience in testing web/mobile/desktop applications, UI/API/web-services
 ## Also I have experience in deploying from scratch a high-efficient modern cloud-based CI-CD system with automated testing integrated to project control tools like Jira, Test Rail and communication channels: e-mail, MS Teams, Telegram etc.
@@ -94,8 +101,8 @@ VersionControl
 
 
 Social
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 
