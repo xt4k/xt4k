@@ -57,6 +57,30 @@ Current tasks:
 | <img src="https://github.com/xt4k/xt4k/assets/38681283/0e212e1c-6d0e-4063-8061-d5296f020c35" width="110" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/bd8202bd-5cbb-4ae5-b98e-b861f717fa68" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/34fa2477-a202-45b2-a594-eba33e9a59b9" width="90" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/97fd2c32-3ba4-4d4c-b90e-dc24544b95e8" width="60" height="60"> | 
 
 
+
+<h3 align="left">Cloud Techs:</h3>
+
+| AWS | MS Azure | Docker | Kubernetes |
+|:----:|:-----:|:-----:|:-----:|
+| <img src="https://github.com/xt4k/xt4k/assets/38681283/3b0ba4ad-9b9e-46bd-8f6d-7b5b90ca7f24" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/99119ec4-1a2a-4df2-aac8-b98ac1003d7d" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/c646c3fc-cb80-4214-b917-80f163b6d620" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/8fc13c14-ffd5-4005-84d3-fc34fcad5469" width="60" height="60"> | 
+
+
+![image](https://github.com/xt4k/xt4k/assets/38681283/3b0ba4ad-9b9e-46bd-8f6d-7b5b90ca7f24)
+
+![image](https://github.com/xt4k/xt4k/assets/38681283/99119ec4-1a2a-4df2-aac8-b98ac1003d7d)
+
+![image](https://github.com/xt4k/xt4k/assets/38681283/c646c3fc-cb80-4214-b917-80f163b6d620)
+
+![image](https://github.com/xt4k/xt4k/assets/38681283/8fc13c14-ffd5-4005-84d3-fc34fcad5469)
+
+
+
+Clouds
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+
+
 Java-stack
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
@@ -76,6 +100,7 @@ Java-stack
 | Appium | Rest Assured | Selenium | Jira | Browserstack | Android Studio | Telegram |
 |:-------------:|:--------:|:------:|:------------:|:--------------:|:---------:|:------:|
 <img src="https://user-images.githubusercontent.com/38681283/120563090-72d4c680-c410-11eb-8a3f-2309be0a818f.png" width="40" height="40"> |<img src="https://user-images.githubusercontent.com/38681283/120566097-335da880-c417-11eb-9e7b-248f6d5d4370.png" width="50" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120566010-eed20d00-c416-11eb-940d-56923ceff1bf.png" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120563529-79b00900-c411-11eb-8ab7-d5caf8b11ac1.png" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120565685-4ae86180-c416-11eb-9e62-42edc0e07e14.png" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120563229-bf200680-c410-11eb-91a6-d54243d0cda6.png" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120566160-54be9480-c417-11eb-86b7-4445fcdc8183.png" width="40" height="40"> |
+
 
 
 
@@ -138,34 +163,9 @@ OS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-Clouds
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
 Server
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
 
+Social ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-
-
-Social
-
-
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-
-
-<!--
-**xt4k/xt4k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
