@@ -81,7 +81,7 @@ Current tasks:
 
 | Allure | Spring | SLF4J | JSP |
 |:---------:|:-----:|:--------:|:--------:|
-| <img src="https://user-images.githubusercontent.com/38681283/120562749-b5e26a00-c40f-11eb-91d9-641e254428c9.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/38681283/120562784-c692e000-c40f-11eb-8298-aa3858159184.png" width="50" height="50"> | <img src="https://user-images.githubusercontent.com/38681283/248457688-2df513b9-56c6-42df-96a5-27b3ccf0e00d.png" width="60" height="60"> | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/dd07cd20-5a95-4672-96a4-684a39440b24.png" width="90" height="50"> | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/7fcc4497-4f1c-449d-85fa-4ee1fd1531c3.png" width="90" height="50"> |
+| <img src="https://user-images.githubusercontent.com/38681283/120562749-b5e26a00-c40f-11eb-91d9-641e254428c9.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/38681283/120562784-c692e000-c40f-11eb-8298-aa3858159184.png" width="50" height="50"> | <img src="https://user-images.githubusercontent.com/38681283/248457688-2df513b9-56c6-42df-96a5-27b3ccf0e00d.png" width="60" height="60"> | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/dd07cd20-5a95-4672-96a4-684a39440b24.png" width="80" height="60"> | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/7fcc4497-4f1c-449d-85fa-4ee1fd1531c3.png" width="80" height="60"> |
 
 =========================================================================================================================================================================================
 
