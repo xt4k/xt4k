@@ -1,17 +1,5 @@
 $\color{red}{This \space page \space is \space under \space construction \space now}$
 
-$\color{red}{This \space page \space is \space under \space construction \space now}$
-
-# $\textcolor{yellow}{This\ is\ a\ Big\ Title}$
-
-\color{blue!20}
-\color{blue!20!black}
-\color{blue!20!black!30!green}
-
-{\color[rgb]{1,0,0} This text will appear red-colored}
-\textcolor[rgb]{0,1,0}{This text will appear green-colored}
-
-\definespotcolor{mygreen}{PANTONE 7716 C}{.83, 0, .40, .11}
 
 <h1 align="center">Yuriy Logvinov</h1>
 <h3 align="center">Certified Automation QA engineer with developer experience</h3>
