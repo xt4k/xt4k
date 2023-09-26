@@ -13,7 +13,7 @@
 ## Also I have experience in deploying from scratch a high-efficient modern cloud-based CI-CD system with automated testing integrated to project control tools like Jira, Test Rail and communication channels: e-mail, MS Teams, Telegram etc.
 ## What I want to find: - An interesting well-paid project where I can realize my potential, especially interested in DevOps and cloud technologies.
 
-
+### Here is my technology stack:
 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
