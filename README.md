@@ -1,4 +1,4 @@
-$\color{red}{THIS \space PAGE \space IS \space UNDER \space CONSTRUCTION \space NOW}$
+$\color{red}{THIS \space\space PAGE \space\spaceIS \space\space UNDER \space\space CONSTRUCTION \space\space NOW}$
 
 
 <h1 align="center">Yuriy Logvinov</h1>
