@@ -1,5 +1,4 @@
-<span style="color:red;">This page is under construction now</span>
-# This page is under construction now
+# \textcolor{red}{This page is under construction now}
 
 <h1 align="center">Yuriy Logvinov</h1>
 <h3 align="center">Certified Automation QA engineer with developer experience</h3>
