@@ -1,16 +1,11 @@
-![image](https://github.com/xt4k/xt4k/assets/38681283/91a01e37-a0d3-493e-95c7-272aa1bae9d3)
-
 <h1 align="center">Yuriy Logvinov</h1>
 
 <h3 align="center">An certified Automation QA engineer with developer experience</h3>
 
-- 🔭 I’m currently working on **Foxminded school**
-
 - 🌱 I’m currently learning **Python automated testing stack**
-
 - 👯 I’m looking to collaborate on **interested project with good reward**
 
-- 👨‍💻 All of my projects are available at [https://github.com/xt4k/](https://github.com/xt4k/)
+- 👨‍💻 Examples of projects developed by me in in pet-projects from are available [here](https://github.com/xt4k/)
 
 - 📫 How to reach me **yuriy.logvinov@gmail.com**
 
