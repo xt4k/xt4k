@@ -113,22 +113,4 @@ Current tasks:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xt4k&show_icons=true&locale=en&layout=compact" alt="xt4k" /></p>
 
-=========================================================================================================================================================================================
-
-
-$\color{red}{THIS  \space\space PAGE \space\space PART \space\space IS \space\space UNDER \space\space CONSTRUCTION \space\space NOW}$
-
-
-ML/DL
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-Documents
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-
-OS
-
-
-
-Social ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-
+- 👯 want to know more ? ... to be continued
