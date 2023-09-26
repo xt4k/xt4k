@@ -1,4 +1,7 @@
-<h1 align="center">Yuriy Logvinov</h1>
+<h1 align="center">Yuriy Logvinov</h1> [![Telegram](https://img.shields.io/badge/-Telegram-0b0a1a?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yuriy_logvinov)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriy-logvinov)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuriy.logvinov@gmail.com)
+
 
 <h3 align="center">An certified Automation QA engineer with developer experience</h3>
 <h4 align="left" color="black">In a few words:</h4><h5>I am AQA engineer with 10+ years experience in web/mobile/desktop applications testing - automated and manual. I have extensive experience working with multi-level automated test frameworks, including building from scratch or developing existing ones. I can create automatic product quality control system, or bring new solutions/approaches to an existing one.</h5>
@@ -10,10 +13,7 @@
 
 - 👨‍💻 Examples of projects developed by me in in pet-projects from are available [here](https://github.com/xt4k/)
 
-- 📫 How you can reach me: [![Telegram](https://img.shields.io/badge/-Telegram-0b0a1a?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yuriy_logvinov)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriy-logvinov)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuriy.logvinov@gmail.com)
-
+- 📫 How you can reach me:
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing](https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing)
 
