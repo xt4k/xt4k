@@ -76,8 +76,11 @@ Current tasks:
 <h4 align="left">J-Stack:</h4>
 
 | Maven | TestNG | Junit5 | Gradle | Selenide| Selenium | Allure | Spring |
-|:------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| <img src="https://github.com/xt4k/xt4k/assets/38681283/e7d26381-c4d0-45e1-9e4d-2816584eb549" width="110" height="40"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/541bc58a-f9ae-4e23-8660-a622f9a3341f" width="110" height="60"> | <img src="https://user-images.githubusercontent.com/38681283/120562013-43bd5580-c40e-11eb-926f-1b8d3dc9e965.png" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120562398-fbeafe00-c40e-11eb-9fe7-3a641bf7115c.png" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120562458-1c1abd00-c40f-11eb-8ce8-2eb023f3e24f.png" width="60" height="60">  | <img src="https://github.com/xt4k/xt4k/assets/38681283/541bc58a-f9ae-4e23-8660-a622f9a3341f" width="110" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/4af50c2b-17c1-4903-b808-e086d4478cac" width="110" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/95c4a9a5-cf5e-474b-8ff0-f542f1288a9e" width="60" height="60"> | <img src="https://user-images.githubusercontent.com/38681283/120566097-335da880-c417-11eb-9e7b-248f6d5d4370.png" width="70" height="60"> |
+|:------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-------:|:-----:|
+| <img src="https://github.com/xt4k/xt4k/assets/38681283/e7d26381-c4d0-45e1-9e4d-2816584eb549" width="110" height="40"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/541bc58a-f9ae-4e23-8660-a622f9a3341f" width="110" height="60"> | <img src="https://user-images.githubusercontent.com/38681283/120562013-43bd5580-c40e-11eb-926f-1b8d3dc9e965.png" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120562398-fbeafe00-c40e-11eb-9fe7-3a641bf7115c.png" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120562458-1c1abd00-c40f-11eb-8ce8-2eb023f3e24f.png" width="60" height="60">  | <img src="https://github.com/xt4k/xt4k/assets/38681283/5e6c1429-1ccb-4ab8-a34e-e0aaeae94ce1" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/4af50c2b-17c1-4903-b808-e086d4478cac" width="110" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/95c4a9a5-cf5e-474b-8ff0-f542f1288a9e" width="60" height="60"> | <img src="https://user-images.githubusercontent.com/38681283/120566097-335da880-c417-11eb-9e7b-248f6d5d4370.png" width="70" height="60"> |
+
+
+![image](https://github.com/xt4k/xt4k/assets/38681283/5e6c1429-1ccb-4ab8-a34e-e0aaeae94ce1)
 
 
 ![image](https://github.com/xt4k/xt4k/assets/38681283/e7d26381-c4d0-45e1-9e4d-2816584eb549)
@@ -96,7 +99,7 @@ Current tasks:
 
 | Selenide | Allure | 
 |:--------:|:--------:|
-| <img src="https://user-images.githubusercontent.com/38681283/120562458-1c1abd00-c40f-11eb-8ce8-2eb023f3e24f.png" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120562749-b5e26a00-c40f-11eb-91d9-641e254428c9.png" width="40" height="40"> <img src="https://user-images.githubusercontent.com/38681283/120562784-c692e000-c40f-11eb-8298-aa3858159184.png" width="40" height="40"> |
+| <img src="https://user-images.githubusercontent.com/38681283/120562749-b5e26a00-c40f-11eb-91d9-641e254428c9.png" width="40" height="40"> <img src="https://user-images.githubusercontent.com/38681283/120562784-c692e000-c40f-11eb-8298-aa3858159184.png" width="40" height="40"> |
 
 | Appium | Rest Assured | Selenium | Jira | Browserstack | Android Studio | Telegram |
 |:-------------:|:--------:|:------:|:------------:|:--------------:|:---------:|:------:|
