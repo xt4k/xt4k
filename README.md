@@ -2,7 +2,9 @@
 # This page is under construction now
 
 ## Who am I:
+## YURIY LOGVINOV
 ### Software Development Engineer in Test / Automarion QA Engineer
+[![Telegram](https://img.shields.io/badge/-Telegram-0b0a1a?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yuriy_logvinov)
 ## with 10+ years experience in Quality Assurance and 
 ## I have experience in testing web/mobile/desktop applications, UI/API/web-services
 ## Also I have experience in deploying from scratch a high-efficient modern cloud-based CI-CD system with automated testing integrated to project control tools like Jira, Test Rail and communication channels: e-mail, MS Teams, Telegram etc.
