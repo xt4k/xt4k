@@ -7,7 +7,10 @@
 
 - 👨‍💻 Examples of projects developed by me in in pet-projects from are available [here](https://github.com/xt4k/)
 
-- 📫 How to reach me **yuriy.logvinov@gmail.com**
+- 📫 You can reach me [![Telegram](https://img.shields.io/badge/-Telegram-0b0a1a?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yuriy_logvinov)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriy-logvinov)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuriy.logvinov@gmail.com)
+
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing](https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing)
 
@@ -24,52 +27,14 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Hi there 👋 
 # This page is under construction now
-
-
-
-
-
-
 
 
 
 ## Who am I:
 ## YURIY LOGVINOV
 ### Software Development Engineer in Test / Automarion QA Engineer
-[![Telegram](https://img.shields.io/badge/-Telegram-0b0a1a?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yuriy_logvinov)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriy-logvinov)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuriy.logvinov@gmail.com)
 
 ## with 10+ years experience in Quality Assurance and 
 ## I have experience in testing web/mobile/desktop applications, UI/API/web-services
