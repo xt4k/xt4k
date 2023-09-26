@@ -68,9 +68,9 @@ Current tasks:
 
 <h4 align="left">Self Education:</h4>
 
-| LeetCode | Udemy | Stack Overflow |
+| Udemy | LeetCode | Stack Overflow |
 |:--------:|:-----:|:--------:|
-| <img src="https://github.com/xt4k/xt4k/assets/38681283/f617b16d-80e3-40cc-9240-2d1377a46c48" width="120" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/ebc42810-7f62-4743-a5e8-df7dc7eb9430" width="90" height="60"> | <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" width="60" height="60"> | 
+| <img src="https://github.com/xt4k/xt4k/assets/38681283/ebc42810-7f62-4743-a5e8-df7dc7eb9430" width="110" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/749b7cfb-2ef2-4e40-884c-4760409247ca" width="120" height="60"> | <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" width="60" height="60"> |
 
 ![image](https://github.com/xt4k/xt4k/assets/38681283/f617b16d-80e3-40cc-9240-2d1377a46c48)
 
@@ -78,6 +78,8 @@ Current tasks:
 
 
 ![image](https://github.com/xt4k/xt4k/assets/38681283/ebc42810-7f62-4743-a5e8-df7dc7eb9430)
+
+![image](https://github.com/xt4k/xt4k/assets/38681283/749b7cfb-2ef2-4e40-884c-4760409247ca)
 
 
 
