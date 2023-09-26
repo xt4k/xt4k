@@ -1,6 +1,3 @@
-$\color{red}{THIS \space\space PAGE \space\space IS \space\space UNDER \space\space CONSTRUCTION \space\space NOW}$
-
-
 <h1 align="center" color="black">Yuriy Logvinov</h1>
 <h3 align="center">Certified Automation QA engineer with developer experience</h3>
 <h5>I'm an AQA engineer with over 10 years of experience testing web, mobile and desktop applications - automated and manual. I have extensive experience working with multi-tier automated testing frameworks, including building from scratch or developing existing ones. I can create an automatic product quality control system or introduce new solutions/approaches to an existing one.</h5>
@@ -112,7 +109,7 @@ Current tasks:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xt4k&show_icons=true&locale=en&layout=compact" alt="xt4k" /></p>
 
-
+$\color{red}{THIS  \space\space PAGE \space\space PART \space\space IS \space\space UNDER \space\space CONSTRUCTION \space\space NOW}$
 =========================================================================================================================================================================================
 
 ML/DL
