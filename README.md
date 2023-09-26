@@ -2,7 +2,7 @@
 
 <h3 align="center">An certified Automation QA engineer with developer experience</h3>
 
-- 🌱 I’m currently learning [**Python automated testing stack**](https://www.udemy.com/course/learn-selenium-automation-in-easy-python-language)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  I’m currently learning [**Python automated testing stack**](https://www.udemy.com/course/learn-selenium-automation-in-easy-python-language)
 - 👯 I’m looking to collaborate on **interested project with good reward**
 
 - 👨‍💻 Examples of projects developed by me in in pet-projects from are available [here](https://github.com/xt4k/)
