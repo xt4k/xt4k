@@ -31,8 +31,29 @@ Current tasks:
 |:----:|:-----:|:-----:|:-----:|:---:|
 | <img src="https://user-images.githubusercontent.com/38681283/120561799-e88b6300-c40d-11eb-91ba-d4103ef6d4b5.png" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/87116a81-f194-4d9a-b47c-d291edbdf3c9" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/72ba5805-fee0-4f4c-a31d-c3d4c3f15284" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/8fa91003-2352-41b8-977a-67c9f13d1ae3" width="60" height="60"> | <img src="https://user-images.githubusercontent.com/38681283/120563229-bf200680-c410-11eb-91a6-d54243d0cda6.png" width="60" height="60"> |
 
-<h3 align="left">IDE:</h3>
+<h3 align="left">CI-CD:</h3>
 
+|Jenkins | Gitlab CI | Github Actions|
+|:----:|:-----:|:-----:|
+| <img src="https://user-images.githubusercontent.com/38681283/120562827-e0342780-c40f-11eb-9430-05ae54f145b1.png" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/d8a863bd-04fb-4aca-9d42-1b919ca2c9eb" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/5c7b12c5-eee6-4210-bea3-cc8ab326ab65" width="60" height="60"> 
+
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+
+![image](https://github.com/xt4k/xt4k/assets/38681283/d8a863bd-04fb-4aca-9d42-1b919ca2c9eb)
+
+
+![image](https://github.com/xt4k/xt4k/assets/38681283/5c7b12c5-eee6-4210-bea3-cc8ab326ab65)
+
+
+
+<h3 align="left">Code Control:</h3>
+
+| IntelliJ IDEA | VS Code | Pycharm | Eclipse | Android Studio |
+|:----:|:-----:|:-----:|:-----:|:---:|
+| <img src="https://user-images.githubusercontent.com/38681283/120561799-e88b6300-c40d-11eb-91ba-d4103ef6d4b5.png" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/87116a81-f194-4d9a-b47c-d291edbdf3c9" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/72ba5805-fee0-4f4c-a31d-c3d4c3f15284" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/8fa91003-2352-41b8-977a-67c9f13d1ae3" width="60" height="60"> | <img src="https://user-images.githubusercontent.com/38681283/120563229-bf200680-c410-11eb-91a6-d54243d0cda6.png" width="60" height="60"> |
 
 
 
@@ -104,16 +125,6 @@ CI
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-IDE
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
 
 DB 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
