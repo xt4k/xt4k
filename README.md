@@ -17,7 +17,7 @@ Current tasks:
 
 
 - 📄 About my experience ![image](https://github.com/xt4k/xt4k/assets/38681283/ca5b665d-8685-4e35-877f-38ee570a04d0)(https://github.com/xt4k/xt4k/assets/38681283/ca5b665d-8685-4e35-877f-38ee570a04d0)
--  <img src="https://github.com/xt4k/xt4k/assets/38681283/ca5b665d-8685-4e35-877f-38ee570a04d0" alt="Google Drive" width="40" height="40" href="https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing](https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing"/>
+-  <img src="https://github.com/xt4k/xt4k/assets/38681283/ca5b665d-8685-4e35-877f-38ee570a04d0" alt="Google Drive" width="40" height="40" href="https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing"/>
 
 -   [https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing](https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing)
 
