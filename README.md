@@ -25,17 +25,18 @@ Current tasks:
 |:-----:|:-----:|:-----:|
 | <img src="https://user-images.githubusercontent.com/38681283/120561837-f7721580-c40d-11eb-8590-7b3b0b5eb50d.png" width="80" height="80"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/0677aa9e-94b5-41d5-ab8b-36dc6a2e772b" width="100" height="100"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/b0d4ebe3-ac64-4364-b6ee-4ee7106b30a3" width="80" height="80"> | 
 
-![powershell-logo](https://github.com/xt4k/xt4k/assets/38681283/b0d4ebe3-ac64-4364-b6ee-4ee7106b30a3)
-
-
 <h3 align="left">IDE:</h3>
 
-| IDEA | Java | Junit5 | Gradle | Selenide | Selenoid | Allure | Jenkins |
-|:-----:|:-----:|:----:|:------:|:------:|:--------:|:--------:|:------------:|:-------:|
+| IntelliJ IDEA | VisualStudio Code | Pycharm | Eclipse |
+|:-----:|:-----:|:----:|:------:|
+| <img src="https://github.com/xt4k/xt4k/assets/38681283/0677aa9e-94b5-41d5-ab8b-36dc6a2e772b" width="100" height="100"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/b0d4ebe3-ac64-4364-b6ee-4ee7106b30a3" width="80" height="80"> | <img src="https://user-images.githubusercontent.com/38681283/120561837-f7721580-c40d-11eb-8590-7b3b0b5eb50d.png" width="80" height="80"> | <img src="https://user-images.githubusercontent.com/38681283/120561837-f7721580-c40d-11eb-8590-7b3b0b5eb50d.png" width="80" height="80"> | 
+
+
+
+
 
 
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-
 
 
 
