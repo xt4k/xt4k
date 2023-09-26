@@ -1,4 +1,5 @@
-![image](https://github.com/xt4k/xt4k/assets/38681283/dbdfcc64-ee5e-4867-9771-7cf9a20e83cd)
+![image](https://github.com/xt4k/xt4k/assets/38681283/91a01e37-a0d3-493e-95c7-272aa1bae9d3)
+
 <h1 align="center">Yuriy Logvinov</h1>
 
 <h3 align="center">An certified Automation QA engineer with developer experience</h3>
