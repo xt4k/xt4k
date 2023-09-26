@@ -1,11 +1,10 @@
 
 <h1 align="center">Yuriy Logvinov</h1>
 <h3 align="center">An certified Automation QA engineer with developer experience</h3>
-<h5>I am AQA engineer with 10+ years experience in web/mobile/desktop applications testing - automated and manual. I have extensive experience working with multi-level automated test frameworks, including building from scratch or developing existing ones. I can create automatic product quality control system, or bring new solutions/approaches to an existing one.</h5>
-<h5 align="left" color="black" size="small">About "building from the scratch" experience - At on one of my project I have developed **from the scratch** a high-efficient modern cloud-based CI-CD system with automated testing, integrated to project control tools (Jira, Test Rail) and communication tools (MS Teams, e-mail, Telegram).</h5>
+<h5>I'm an AQA engineer with over 10 years of experience testing web, mobile and desktop applications - automated and manual. I have extensive experience working with multi-tier automated testing frameworks, including building from scratch or developing existing ones. I can create an automatic product quality control system or introduce new solutions/approaches to an existing one.</h5>
+<h5 align="left" color="black" size="small">About the experience of “building from scratch” - On one of my projects I developed **from scratch** a highly efficient modern cloud CI-CD system with automated testing, integrated with project management tools (Jira, Test Rail) and communication tools (MS Teams, email, Telegram).</h5>
 
-
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>  I’m currently learning [**Python automated testing stack**](https://www.udemy.com/course/learn-selenium-automation-in-easy-python-language)
+- Current task: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> - I'm learning [**Python automated testing stack**](https://www.udemy.com/course/learn-selenium-automation-in-easy-python-language) and 
 - 👯 I’m looking to collaborate on **interested project with good reward**
 
 - Examples of projects developed by me in in pet-projects from are available [here](https://github.com/xt4k/)
