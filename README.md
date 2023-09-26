@@ -19,9 +19,13 @@ Current tasks:
 <h3 align="left">Technology stack:</h3>
 <h4 align="left">Languages:</h4>
 
-| Java | Groovy | PowerShell | *Python (in progress)* |
-|:-----:|:-----:|:-----:|:-----:|
-| <img src="https://user-images.githubusercontent.com/38681283/120561837-f7721580-c40d-11eb-8590-7b3b0b5eb50d.png" width="80" height="80"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/0677aa9e-94b5-41d5-ab8b-36dc6a2e772b" width="100" height="100"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/b0d4ebe3-ac64-4364-b6ee-4ee7106b30a3" width="80" height="80"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/5285ed8c-75d7-429c-baa5-0af5239f619a" width="80" height="80"> | 
+| Java | Groovy | PowerShell | VBScript | *Python (in progress)* |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| <img src="https://user-images.githubusercontent.com/38681283/120561837-f7721580-c40d-11eb-8590-7b3b0b5eb50d.png" width="80" height="80"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/0677aa9e-94b5-41d5-ab8b-36dc6a2e772b" width="100" height="100"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/b0d4ebe3-ac64-4364-b6ee-4ee7106b30a3" width="80" height="80"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/9a57e97f-b7bc-40de-bb1f-b49b73100f6e" width="80" height="80"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/5285ed8c-75d7-429c-baa5-0af5239f619a" width="80" height="80"> | 
+
+![image](https://github.com/xt4k/xt4k/assets/38681283/9a57e97f-b7bc-40de-bb1f-b49b73100f6e)
+
+
 
 <h4 align="left">IDE:</h4>
 
@@ -66,7 +70,6 @@ Current tasks:
 | <img src="https://github.com/xt4k/xt4k/assets/38681283/764a1839-fe75-4d4e-9115-87e7f02c540b" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/9f0d2f91-d20e-41bc-abc3-6ca9883b7424" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/4af50c2b-17c1-4903-b808-e086d4478cac" width="110" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/95c4a9a5-cf5e-474b-8ff0-f542f1288a9e" width="60" height="60"> | <img src="https://user-images.githubusercontent.com/38681283/120566097-335da880-c417-11eb-9e7b-248f6d5d4370.png" width="70" height="60"> |<img src="https://github.com/xt4k/xt4k/assets/38681283/38dbdac6-312d-4e29-abc6-4f7ef5a5f5d7" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/ebf42e66-61a3-4d7a-89ca-e1785604ab35" width="60" height="60"> |
 
 
-
 <h4 align="left">Self Education:</h4>
 
 | Udemy | LeetCode | Stack Overflow |
@@ -101,6 +104,19 @@ Current tasks:
 | Linux | Windows |
 |:------------:|:-------:|
 | <img src="https://github.com/xt4k/xt4k/assets/38681283/6bac3248-c6ef-4148-ab6a-2d3ae6257283" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/c6649760-744d-461e-a8f8-fd89de017e6f" width="60" height="60"> |
+
+<h4 align="left">Document Management System:</h4>
+
+| Udemy | LeetCode | Stack Overflow |
+|:--------:|:-----:|:--------:|
+| <img src="https://github.com/xt4k/xt4k/assets/38681283/ebc42810-7f62-4743-a5e8-df7dc7eb9430" width="110" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/749b7cfb-2ef2-4e40-884c-4760409247ca" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/24098115-ddb2-4fdd-99da-574d326190fd" width="60" height="60"> |
+
+
+
+
+
+![image](https://github.com/xt4k/xt4k/assets/38681283/f143b2ac-43ee-4cf9-b702-5bae1e7701bd)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
