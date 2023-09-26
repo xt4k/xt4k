@@ -73,6 +73,15 @@ Current tasks:
 | <img src="https://github.com/xt4k/xt4k/assets/38681283/ebc42810-7f62-4743-a5e8-df7dc7eb9430" width="110" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/749b7cfb-2ef2-4e40-884c-4760409247ca" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/24098115-ddb2-4fdd-99da-574d326190fd" width="60" height="60"> |
 
 
+<h4 align="left">Java-Stack:</h4>
+
+| Maven | TestNG | Junit5 | Gradle | Selenide | Selenoid | Allure | Jenkins |
+|:------:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| <img src="https://github.com/xt4k/xt4k/assets/38681283/e7d26381-c4d0-45e1-9e4d-2816584eb549" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/541bc58a-f9ae-4e23-8660-a622f9a3341f" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/4af50c2b-17c1-4903-b808-e086d4478cac" width="110" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/95c4a9a5-cf5e-474b-8ff0-f542f1288a9e" width="60" height="60"> | <img src="https://user-images.githubusercontent.com/38681283/120566097-335da880-c417-11eb-9e7b-248f6d5d4370.png" width="70" height="60"> |
+
+
+![image](https://github.com/xt4k/xt4k/assets/38681283/e7d26381-c4d0-45e1-9e4d-2816584eb549)
+
 
 
 =========================================================================================================================================================================================
