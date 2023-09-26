@@ -54,7 +54,7 @@ Current tasks:
 
 | Jira | Confluence | Test Rail | HP ALM |
 |:----:|:-----:|:-----:|:-----:|
-| <img src="https://user-images.githubusercontent.com/38681283/120561799-e88b6300-c40d-11eb-91ba-d4103ef6d4b5.png" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/6ddb4da8-4cde-4ceb-b5e8-2f2aa0e48235" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/649db002-dd49-487f-8333-7c7940383ef2" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/d8a863bd-04fb-4aca-9d42-1b919ca2c9eb" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/7b2a7408-cd68-4c07-b152-c9b39b6cbb51" width="60" height="60"> |
+| <img src="https://github.com/xt4k/xt4k/assets/38681283/0e212e1c-6d0e-4063-8061-d5296f020c35" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/34fa2477-a202-45b2-a594-eba33e9a59b9" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/34fa2477-a202-45b2-a594-eba33e9a59b9" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/97fd2c32-3ba4-4d4c-b90e-dc24544b95e8" width="60" height="60"> | 
 
 
 
