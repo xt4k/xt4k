@@ -29,11 +29,12 @@ Current tasks:
 
 | IntelliJ IDEA | VS Code | Pycharm | Eclipse |
 |:----:|:-----:|:-----:|:-----:|
-| <img src="https://user-images.githubusercontent.com/38681283/120561799-e88b6300-c40d-11eb-91ba-d4103ef6d4b5.png" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/8fa91003-2352-41b8-977a-67c9f13d1ae3" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/72ba5805-fee0-4f4c-a31d-c3d4c3f15284" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/8fa91003-2352-41b8-977a-67c9f13d1ae3" width="60" height="60"> | 
+| <img src="https://user-images.githubusercontent.com/38681283/120561799-e88b6300-c40d-11eb-91ba-d4103ef6d4b5.png" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/87116a81-f194-4d9a-b47c-d291edbdf3c9" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/72ba5805-fee0-4f4c-a31d-c3d4c3f15284" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/8fa91003-2352-41b8-977a-67c9f13d1ae3" width="60" height="60"> | 
 
 
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
 
+![image](https://github.com/xt4k/xt4k/assets/38681283/87116a81-f194-4d9a-b47c-d291edbdf3c9)
 
 
 
