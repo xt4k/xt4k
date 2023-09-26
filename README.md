@@ -3,7 +3,7 @@
 
 \textcolor{declared-color}{text}
 
-$\color{red}{This page is under construction now}$
+$\color{red}{This \space page is under construction now}$
 
 
 
