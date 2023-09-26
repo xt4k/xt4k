@@ -64,9 +64,11 @@ Current tasks:
 
 <h4 align="left">API:</h4>
 
-| Postman | Swagger | Dev Tools | Fiddler | Rest Assured | Serenity |
-|:------:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| <img src="https://github.com/xt4k/xt4k/assets/38681283/764a1839-fe75-4d4e-9115-87e7f02c540b" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/9f0d2f91-d20e-41bc-abc3-6ca9883b7424" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/4af50c2b-17c1-4903-b808-e086d4478cac" width="110" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/95c4a9a5-cf5e-474b-8ff0-f542f1288a9e" width="60" height="60"> | <img src="https://user-images.githubusercontent.com/38681283/120566097-335da880-c417-11eb-9e7b-248f6d5d4370.png" width="70" height="60"> |<img src="https://github.com/xt4k/xt4k/assets/38681283/38dbdac6-312d-4e29-abc6-4f7ef5a5f5d7" width="60" height="60"> |
+| Postman | Swagger | Dev Tools | Fiddler | Rest Assured | Serenity | Cucumber |
+|:------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| <img src="https://github.com/xt4k/xt4k/assets/38681283/764a1839-fe75-4d4e-9115-87e7f02c540b" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/9f0d2f91-d20e-41bc-abc3-6ca9883b7424" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/4af50c2b-17c1-4903-b808-e086d4478cac" width="110" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/95c4a9a5-cf5e-474b-8ff0-f542f1288a9e" width="60" height="60"> | <img src="https://user-images.githubusercontent.com/38681283/120566097-335da880-c417-11eb-9e7b-248f6d5d4370.png" width="70" height="60"> |<img src="https://github.com/xt4k/xt4k/assets/38681283/38dbdac6-312d-4e29-abc6-4f7ef5a5f5d7" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/ebf42e66-61a3-4d7a-89ca-e1785604ab35" width="60" height="60"> |
+
+
 
 <h4 align="left">Self Education:</h4>
 
@@ -91,11 +93,14 @@ Current tasks:
 |:-------------:|:------------:|:--------------:|:---------:|:---------:|:------:|
 <img src="https://user-images.githubusercontent.com/38681283/120563090-72d4c680-c410-11eb-8a3f-2309be0a818f.png" width="40" height="40"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/c33fd449-b58f-4c4c-8958-e7866cb5c4da" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120565685-4ae86180-c416-11eb-9e62-42edc0e07e14.png" width="40" height="40"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/9270e630-76f1-4e01-8c2c-cc8bc227dc2b" width="40" height="40"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/8d370468-098c-4205-9c8e-f7c6235a8907" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120566160-54be9480-c417-11eb-86b7-4445fcdc8183.png" width="40" height="40"> |
 
-=========================================================================================================================================================================================
+<h4 align="left">Other:</h4>
+
 | Jakarta | Lombok |
 |:------------:|:-------:|
 | <img src="https://user-images.githubusercontent.com/38681283/248458847-7136dbda-f182-471f-9ee8-c8963e9cbd17.png" width="60" height="60"> | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/e064428e-560c-4357-b2aa-2501a7d7da1b.png" width="60" height="60"> |
 
+
+=========================================================================================================================================================================================
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -107,23 +112,6 @@ Current tasks:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xt4k&show_icons=true&locale=en&layout=compact" alt="xt4k" /></p>
 
-
-
-
-### Hi there 👋 
-
-
-
-## Who am I:
-## YURIY LOGVINOV
-### Software Development Engineer in Test / Automarion QA Engineer
-
-## with 10+ years experience in Quality Assurance and 
-## I have experience in testing web/mobile/desktop applications, UI/API/web-services
-## Also I have experience in deploying from scratch a high-efficient modern cloud-based CI-CD system with automated testing integrated to project control tools like Jira, Test Rail and communication channels: e-mail, MS Teams, Telegram etc.
-## What I want to find: - An interesting well-paid project where I can realize my potential, especially interested in DevOps and cloud technologies.
-
-### Here is my technology stack:
 
 ML/DL
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
