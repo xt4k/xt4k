@@ -5,7 +5,7 @@
 <h5 align="left" color="black" size="small">About the experience of “building from scratch” - On one of my projects I developed **from scratch** a highly efficient modern cloud CI-CD system with automated testing, integrated with project management tools (Jira, Test Rail) and communication tools (MS Teams, email, Telegram).</h5>
 
 Current tasks:
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> I'm learning [**Python automated testing stack**](https://www.udemy.com/course/learn-selenium-automation-in-easy-python-language) and 
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> I'm learning [**Python automated testing stack**](https://www.udemy.com/course/learn-selenium-automation-in-easy-python-language) 
 - 👯 I’m looking to collaborate on **interested project with good reward**
 
 [<h5 align="center" color="blue"> Examples of projects developed by me in in pet-projects from are available<h5>](https://github.com/xt4k/)
@@ -15,7 +15,9 @@ Current tasks:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuriy.logvinov@gmail.com)
 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing](https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing)
+- 📄 About my experiences [<img src="https://github.com/xt4k/xt4k/assets/38681283/ca5b665d-8685-4e35-877f-38ee570a04d0" alt="Google Drive" width="40" height="40"/>](https://github.com/xt4k/xt4k/assets/38681283/ca5b665d-8685-4e35-877f-38ee570a04d0)
+
+-   [https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing](https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
