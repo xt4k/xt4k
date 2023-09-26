@@ -1,6 +1,10 @@
 <h1 align="center">Yuriy Logvinov</h1>
 
 <h3 align="center">An certified Automation QA engineer with developer experience</h3>
+<h4 align="center">In a few words:I am AQA engineer with 10+ years experience in Quality Assurance and Software Testing web/mobile/desktop applications.
+I have experience in deploying from scratch a high-efficient modern cloud-based CI-CD system with automated testing integrated to project control tools (like Jira, Test Rail, Confluence) and communication tools (like MS Teams, e-mail, Telegram,Skype, etc..). For the moment I want to find an interesting well-paid job where I can realize my
+potential, especially interested in DevOps and cloud technologies.</h4>
+
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>  I’m currently learning [**Python automated testing stack**](https://www.udemy.com/course/learn-selenium-automation-in-easy-python-language)
 - 👯 I’m looking to collaborate on **interested project with good reward**
