@@ -66,6 +66,20 @@ Current tasks:
 |:------:|:-----:|:-----:|:-----:|:-----:|
 | <img src="https://github.com/xt4k/xt4k/assets/38681283/764a1839-fe75-4d4e-9115-87e7f02c540b" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/9f0d2f91-d20e-41bc-abc3-6ca9883b7424" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/4af50c2b-17c1-4903-b808-e086d4478cac" width="110" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/95c4a9a5-cf5e-474b-8ff0-f542f1288a9e" width="60" height="60"> | <img src="https://user-images.githubusercontent.com/38681283/120566097-335da880-c417-11eb-9e7b-248f6d5d4370.png" width="70" height="60"> |
 
+<h4 align="left">Self Education:</h4>
+
+| LeetCode | Udemy | Stack Overflow |
+|:------:|:-----:|:--------:|
+| <img src="https://github.com/xt4k/xt4k/assets/38681283/f617b16d-80e3-40cc-9240-2d1377a46c48" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/9f0d2f91-d20e-41bc-abc3-6ca9883b7424" width="60" height="60"> | <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" width="60" height="60"> | 
+
+![image](https://github.com/xt4k/xt4k/assets/38681283/f617b16d-80e3-40cc-9240-2d1377a46c48)
+
+
+
+Self Education
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
 
 =========================================================================================================================================================================================
@@ -128,22 +142,9 @@ Java-stack
 
 ### Here is my technology stack:
 
-Self Education
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-
 ML/DL
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-
-
-API
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
 
 Documents
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
