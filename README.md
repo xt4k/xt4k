@@ -17,7 +17,12 @@ Current tasks:
 
 - 📄 About my [experience: <img src="https://github.com/xt4k/xt4k/assets/38681283/ca5b665d-8685-4e35-877f-38ee570a04d0" alt="Google Drive" width="40" height="40">](https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing)
 
--   [https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing](https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing)
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
