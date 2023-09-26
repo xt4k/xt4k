@@ -41,8 +41,8 @@ Current tasks:
 <h4 align="left">Code Version Control:</h4>
 
 | Git | Bitbucket | Github | Gitlab | TortoiseSVN |
-|:----:|:-----:|:-----:|:-----:|:-----:|
-| <img src="https://github.com/xt4k/xt4k/assets/38681283/e3da1bad-14e8-410c-a3b4-da759e35ee79" width="80" height="80"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/6ddb4da8-4cde-4ceb-b5e8-2f2aa0e48235" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/649db002-dd49-487f-8333-7c7940383ef2" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/d8a863bd-04fb-4aca-9d42-1b919ca2c9eb" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/7b2a7408-cd68-4c07-b152-c9b39b6cbb51" width="60" height="60"> |
+|:---:|:-----:|:-----:|:-----:|:-----:|
+| <img src="https://github.com/xt4k/xt4k/assets/38681283/e3da1bad-14e8-410c-a3b4-da759e35ee79" width="90" height="90"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/6ddb4da8-4cde-4ceb-b5e8-2f2aa0e48235" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/649db002-dd49-487f-8333-7c7940383ef2" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/d8a863bd-04fb-4aca-9d42-1b919ca2c9eb" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/7b2a7408-cd68-4c07-b152-c9b39b6cbb51" width="60" height="60"> |
 
 <h4 align="left">DB:</h4>
 
