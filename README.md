@@ -89,9 +89,11 @@ Current tasks:
 
 | Appium | SauceLabs | Browserstack | Android | iOS | Telegram API |
 |:-------------:|:------------:|:--------------:|:---------:|:---------:|:------:|
-<img src="https://user-images.githubusercontent.com/38681283/120563090-72d4c680-c410-11eb-8a3f-2309be0a818f.png" width="40" height="40"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/c33fd449-b58f-4c4c-8958-e7866cb5c4da" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120565685-4ae86180-c416-11eb-9e62-42edc0e07e14.png" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120563229-bf200680-c410-11eb-91a6-d54243d0cda6.png" width="40" height="40"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/8d370468-098c-4205-9c8e-f7c6235a8907" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120566160-54be9480-c417-11eb-86b7-4445fcdc8183.png" width="40" height="40"> |
+<img src="https://user-images.githubusercontent.com/38681283/120563090-72d4c680-c410-11eb-8a3f-2309be0a818f.png" width="40" height="40"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/c33fd449-b58f-4c4c-8958-e7866cb5c4da" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120565685-4ae86180-c416-11eb-9e62-42edc0e07e14.png" width="40" height="40"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/9270e630-76f1-4e01-8c2c-cc8bc227dc2b" width="40" height="40"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/8d370468-098c-4205-9c8e-f7c6235a8907" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120566160-54be9480-c417-11eb-86b7-4445fcdc8183.png" width="40" height="40"> |
 
 ![image](https://github.com/xt4k/xt4k/assets/38681283/8d370468-098c-4205-9c8e-f7c6235a8907)
+
+![image](https://github.com/xt4k/xt4k/assets/38681283/9270e630-76f1-4e01-8c2c-cc8bc227dc2b)
 
 
 =========================================================================================================================================================================================
