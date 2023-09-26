@@ -3,7 +3,7 @@
 
 \textcolor{declared-color}{text}
 
-$\color{green}{test}$
+$\color{red}{This page is under construction now}$
 
 
 
