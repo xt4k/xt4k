@@ -103,7 +103,7 @@ Current tasks:
 
 | Ubuntu | Windows |
 |:------------:|:-------:|
-| <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" width="60" height="60"> | <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="60" height="60"> |
+| <img src="https://github.com/xt4k/xt4k/assets/38681283/c6649760-744d-461e-a8f8-fd89de017e6f" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/3d7e2db3-e4a5-4e73-b788-92c4b95c2796" width="60" height="60"> |
 
 =========================================================================================================================================================================================
 
