@@ -1,6 +1,6 @@
 
 <h1 align="center">Yuriy Logvinov</h1>
-<img src="https://img.shields.io/badge/-Telegram-0b0a1a?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram" width="100" height="20"/>(https://t.me/yuriy_logvinov)
+<img src="https://img.shields.io/badge/-Telegram-0b0a1a?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="https://t.me/yuriy_logvinov" width="100" height="40"/>
 
 
 <h3 align="center">An certified Automation QA engineer with developer experience</h3>
