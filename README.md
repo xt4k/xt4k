@@ -1,3 +1,7 @@
+<span style="color:red">
+Text content
+</span>
+
 # \textcolor{red}{This page is under construction now}
 # Markdown
 
