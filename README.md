@@ -43,11 +43,24 @@ Current tasks:
 |:----:|:-----:|:-----:|:-----:|:-----:|
 | <img src="https://user-images.githubusercontent.com/38681283/120561799-e88b6300-c40d-11eb-91ba-d4103ef6d4b5.png" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/6ddb4da8-4cde-4ceb-b5e8-2f2aa0e48235" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/649db002-dd49-487f-8333-7c7940383ef2" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/d8a863bd-04fb-4aca-9d42-1b919ca2c9eb" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/7b2a7408-cd68-4c07-b152-c9b39b6cbb51" width="60" height="60"> |
 
-VersionControl
+<h3 align="left">DB:</h3>
+
+| MongoDB | MS SQL | MySql |
+|:----:|:-----:|:-----:|
+| <img src="https://github.com/xt4k/xt4k/assets/38681283/bc94c98a-9c23-4827-89e6-9a233cae7439" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/27ad7a35-552e-46b9-869b-831b1c8c31a3" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/d2c525bb-c269-40cb-aeb7-e40aed51e6fe" width="60" height="60"> | 
+
+![image](https://github.com/xt4k/xt4k/assets/38681283/bc94c98a-9c23-4827-89e6-9a233cae7439)
+
+![image](https://github.com/xt4k/xt4k/assets/38681283/27ad7a35-552e-46b9-869b-831b1c8c31a3)
+
+![image](https://github.com/xt4k/xt4k/assets/38681283/d2c525bb-c269-40cb-aeb7-e40aed51e6fe)
 
 
+DB 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
 
 
 Java-stack
