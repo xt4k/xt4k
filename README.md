@@ -86,10 +86,17 @@ Current tasks:
 
 =========================================================================================================================================================================================
 
+## Technology stack
+
+| Spring | Gradle | Jakarta | SLF4J | Lombok | JSP |
+|:------:|:------:|:--------:|:--------:|:------------:|:-------:|
+| <img src="https://user-images.githubusercontent.com/38681283/248457688-2df513b9-56c6-42df-96a5-27b3ccf0e00d.png" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120562398-fbeafe00-c40e-11eb-9fe7-3a641bf7115c.png" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/248458847-7136dbda-f182-471f-9ee8-c8963e9cbd17.png" width="40" height="40"> | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/dd07cd20-5a95-4672-96a4-684a39440b24.png" width="80" height="40">  | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/e064428e-560c-4357-b2aa-2501a7d7da1b.png" width="40" height="40">  | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/7fcc4497-4f1c-449d-85fa-4ee1fd1531c3.png" width="40" height="40"> |
+
+
 
 | Selenide | Allure | 
 |:--------:|:--------:|
-| <img src="https://user-images.githubusercontent.com/38681283/120562398-fbeafe00-c40e-11eb-9fe7-3a641bf7115c.png" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120562458-1c1abd00-c40f-11eb-8ce8-2eb023f3e24f.png" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120562749-b5e26a00-c40f-11eb-91d9-641e254428c9.png" width="40" height="40"> <img src="https://user-images.githubusercontent.com/38681283/120562784-c692e000-c40f-11eb-8298-aa3858159184.png" width="40" height="40"> |
+| <img src="https://user-images.githubusercontent.com/38681283/120562458-1c1abd00-c40f-11eb-8ce8-2eb023f3e24f.png" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120562749-b5e26a00-c40f-11eb-91d9-641e254428c9.png" width="40" height="40"> <img src="https://user-images.githubusercontent.com/38681283/120562784-c692e000-c40f-11eb-8298-aa3858159184.png" width="40" height="40"> |
 
 | Appium | Rest Assured | Selenium | Jira | Browserstack | Android Studio | Telegram |
 |:-------------:|:--------:|:------:|:------------:|:--------------:|:---------:|:------:|
