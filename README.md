@@ -1,24 +1,9 @@
-![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)`#f03c15`
-
-
-\textcolor{declared-color}{text}
-
 $\color{red}{This \space page \space is \space under \space construction \space now}$
-
-
 
 ```diff
 - This page is under construction now
 ```
-aaaaa
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 
-$${\color{red}THIS \space PAGE \space IS \space UNDER \space COUNSTRUCTION \space NOW}$$
-
-- ![#f03c15](This page is under construction now) `#f03c15`
-
-
-aaaaaa
 
 <h1 align="center">Yuriy Logvinov</h1>
 <h3 align="center">Certified Automation QA engineer with developer experience</h3>
