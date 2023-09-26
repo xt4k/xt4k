@@ -18,51 +18,52 @@ Current tasks:
 - 📄 About my [experience: <img src="https://github.com/xt4k/xt4k/assets/38681283/ca5b665d-8685-4e35-877f-38ee570a04d0" alt="Google Drive" width="40" height="40">](https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing)
 
 <h3 align="left">Technology stack:</h3>
-
-<h3 align="left">Languages:</h3>
+<h4 align="left">Languages:</h4>
 
 | Java | Groovy | PowerShell | *Python (in progress)* |
 |:-----:|:-----:|:-----:|:-----:|
 | <img src="https://user-images.githubusercontent.com/38681283/120561837-f7721580-c40d-11eb-8590-7b3b0b5eb50d.png" width="80" height="80"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/0677aa9e-94b5-41d5-ab8b-36dc6a2e772b" width="100" height="100"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/b0d4ebe3-ac64-4364-b6ee-4ee7106b30a3" width="80" height="80"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/5285ed8c-75d7-429c-baa5-0af5239f619a" width="80" height="80"> | 
 
-<h3 align="left">IDE:</h3>
+<h4 align="left">IDE:</h4>
 
 | IntelliJ IDEA | VS Code | Pycharm | Eclipse | Android Studio |
 |:----:|:-----:|:-----:|:-----:|:---:|
 | <img src="https://user-images.githubusercontent.com/38681283/120561799-e88b6300-c40d-11eb-91ba-d4103ef6d4b5.png" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/87116a81-f194-4d9a-b47c-d291edbdf3c9" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/72ba5805-fee0-4f4c-a31d-c3d4c3f15284" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/8fa91003-2352-41b8-977a-67c9f13d1ae3" width="60" height="60"> | <img src="https://user-images.githubusercontent.com/38681283/120563229-bf200680-c410-11eb-91a6-d54243d0cda6.png" width="60" height="60"> |
 
-<h3 align="left">CI-CD:</h3>
+<h4 align="left">CI-CD:</h4>
 
 |Jenkins | Gitlab CI | Github Actions|
 |:----:|:-----:|:-----:|
 | <img src="https://user-images.githubusercontent.com/38681283/120562827-e0342780-c40f-11eb-9430-05ae54f145b1.png" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/7ab1794f-78fa-4ad5-b20e-1e686b1d7916" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/5c7b12c5-eee6-4210-bea3-cc8ab326ab65" width="60" height="60"> 
 
-<h3 align="left">Code Version Control:</h3>
+<h4 align="left">Code Version Control:</h4>
 
 | Git | Bitbucket | Github | Gitlab | TortoiseSVN |
 |:----:|:-----:|:-----:|:-----:|:-----:|
 | <img src="https://user-images.githubusercontent.com/38681283/120561799-e88b6300-c40d-11eb-91ba-d4103ef6d4b5.png" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/6ddb4da8-4cde-4ceb-b5e8-2f2aa0e48235" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/649db002-dd49-487f-8333-7c7940383ef2" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/d8a863bd-04fb-4aca-9d42-1b919ca2c9eb" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/7b2a7408-cd68-4c07-b152-c9b39b6cbb51" width="60" height="60"> |
 
-<h3 align="left">DB:</h3>
+<h4 align="left">DB:</h4>
 
 | MongoDB | MS SQL | MySql |
 |:----:|:-----:|:-----:|
 | <img src="https://github.com/xt4k/xt4k/assets/38681283/bc94c98a-9c23-4827-89e6-9a233cae7439" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/27ad7a35-552e-46b9-869b-831b1c8c31a3" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/d2c525bb-c269-40cb-aeb7-e40aed51e6fe" width="100" height="70"> | 
 
-
-<h3 align="left">Project Control:</h3>
+<h4 align="left">Project Control:</h4>
 
 | Jira | Confluence | Test Rail | HP ALM |
 |:------:|:-----:|:-----:|:-----:|
 | <img src="https://github.com/xt4k/xt4k/assets/38681283/0e212e1c-6d0e-4063-8061-d5296f020c35" width="110" height="40"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/bd8202bd-5cbb-4ae5-b98e-b861f717fa68" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/34fa2477-a202-45b2-a594-eba33e9a59b9" width="90" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/97fd2c32-3ba4-4d4c-b90e-dc24544b95e8" width="60" height="60"> | 
 
-
-
-<h3 align="left">Cloud Techs:</h3>
+<h4 align="left">Cloud Techs:</h4>
 
 | AWS | MS Azure | Docker | Kubernetes |
 |:----:|:-----:|:-----:|:-----:|
 | <img src="https://github.com/xt4k/xt4k/assets/38681283/3b0ba4ad-9b9e-46bd-8f6d-7b5b90ca7f24" width="80" height="80"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/99119ec4-1a2a-4df2-aac8-b98ac1003d7d" width="110" height="40"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/c646c3fc-cb80-4214-b917-80f163b6d620" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/8fc13c14-ffd5-4005-84d3-fc34fcad5469" width="60" height="60"> | 
+
+
+
+
+
 
 
 
