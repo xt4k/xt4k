@@ -50,6 +50,24 @@ Current tasks:
 | <img src="https://github.com/xt4k/xt4k/assets/38681283/bc94c98a-9c23-4827-89e6-9a233cae7439" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/27ad7a35-552e-46b9-869b-831b1c8c31a3" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/d2c525bb-c269-40cb-aeb7-e40aed51e6fe" width="100" height="70"> | 
 
 
+<h3 align="left">Project Control:</h3>
+
+| Jira | Confluence | Test Rail | HP ALM |
+|:----:|:-----:|:-----:|:-----:|
+| <img src="https://user-images.githubusercontent.com/38681283/120561799-e88b6300-c40d-11eb-91ba-d4103ef6d4b5.png" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/6ddb4da8-4cde-4ceb-b5e8-2f2aa0e48235" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/649db002-dd49-487f-8333-7c7940383ef2" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/d8a863bd-04fb-4aca-9d42-1b919ca2c9eb" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/7b2a7408-cd68-4c07-b152-c9b39b6cbb51" width="60" height="60"> |
+
+
+
+
+Project Control 
+![image](https://github.com/xt4k/xt4k/assets/38681283/0e212e1c-6d0e-4063-8061-d5296f020c35)
+
+![image](https://github.com/xt4k/xt4k/assets/38681283/34fa2477-a202-45b2-a594-eba33e9a59b9)
+
+![image](https://github.com/xt4k/xt4k/assets/38681283/bd8202bd-5cbb-4ae5-b98e-b861f717fa68)
+
+![image](https://github.com/xt4k/xt4k/assets/38681283/97fd2c32-3ba4-4d4c-b90e-dc24544b95e8)
+
 
 Java-stack
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
@@ -105,15 +123,6 @@ Java-stack
 ## What I want to find: - An interesting well-paid project where I can realize my potential, especially interested in DevOps and cloud technologies.
 
 ### Here is my technology stack:
-Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-
-DB 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 Self Education
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
@@ -145,16 +154,8 @@ Clouds
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-
-
-
 Server
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-
-
-Project Control 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>TestRail</title><path d="M7.27 23.896 4.5 21.124a.352.352 0 0 1 0-.5l2.772-2.77a.352.352 0 0 1 .5 0l2.772 2.772a.352.352 0 0 1 0 .5l-2.772 2.77a.352.352 0 0 1-.5 0H7.27zm4.48-4.48-2.772-2.772a.352.352 0 0 1 0-.498l2.772-2.772a.352.352 0 0 1 .5 0l2.77 2.772a.352.352 0 0 1 0 .5l-2.77 2.77a.352.352 0 0 1-.499 0zm4.48-4.48-2.77-2.772a.352.352 0 0 1 0-.498l2.771-2.772a.352.352 0 0 1 .5 0l2.77 2.772a.352.352 0 0 1 0 .498l-2.772 2.772a.352.352 0 0 1-.5 0h.002zm-8.876.084-2.772-2.77a.352.352 0 0 1 0-.499l2.772-2.773a.352.352 0 0 1 .5 0l2.772 2.772a.352.352 0 0 1 0 .498l-2.772 2.774a.352.352 0 0 1-.5 0v-.002zm4.48-4.48L9.062 7.77a.352.352 0 0 1 0-.5l2.772-2.772a.352.352 0 0 1 .5 0l2.77 2.772a.352.352 0 0 1 0 .498l-2.77 2.772a.352.352 0 0 1-.499 0v-.002.001zM7.44 6.15 4.666 3.37a.352.352 0 0 1 0-.5L7.44.104a.352.352 0 0 1 .5 0l2.772 2.772a.352.352 0 0 1 0 .5L7.938 6.142a.352.352 0 0 1-.5 0l.002.006v.001z"/></svg>
 
 
 
