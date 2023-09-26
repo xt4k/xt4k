@@ -103,16 +103,9 @@ Current tasks:
 
 <h4 align="left">Document Management System:</h4>
 
-| Udemy | LeetCode | Stack Overflow |
-|:--------:|:-----:|:--------:|
-| <img src="https://github.com/xt4k/xt4k/assets/38681283/ebc42810-7f62-4743-a5e8-df7dc7eb9430" width="110" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/749b7cfb-2ef2-4e40-884c-4760409247ca" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/24098115-ddb2-4fdd-99da-574d326190fd" width="60" height="60"> |
-
-
-
-
-
-![image](https://github.com/xt4k/xt4k/assets/38681283/f143b2ac-43ee-4cf9-b702-5bae1e7701bd)
-
+| Documentum | Livelink | Sharepoint | Veeva |
+|:--------:|:-----:|:--------:|:--------:|
+| <img src="https://github.com/xt4k/xt4k/assets/38681283/f143b2ac-43ee-4cf9-b702-5bae1e7701bd" width="90" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/9e81924e-9997-4bb8-a7fc-ae60897a18a2" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/3f8aba03-7447-45d3-a5b4-a643655b9c13" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/d7fcb392-edc2-45cb-b895-95379f62b728" width="60" height="60"> |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
