@@ -56,7 +56,7 @@ Current tasks:
 
 <h4 align="left">Cloud and Servers:</h4>
 
-| AWS | MS Azure | Docker | Docker | Kubernetes | Selenoid | Apache Tomcat |
+| AWS | MS Azure | Docker | Docker-Compose | Kubernetes | Selenoid | Apache Tomcat |
 |:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | <img src="https://github.com/xt4k/xt4k/assets/38681283/3b0ba4ad-9b9e-46bd-8f6d-7b5b90ca7f24" width="80" height="80"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/99119ec4-1a2a-4df2-aac8-b98ac1003d7d" width="110" height="40"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/c646c3fc-cb80-4214-b917-80f163b6d620" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/38143832-b9c5-4f0a-b2b7-91ee4cba5fbf" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/8fc13c14-ffd5-4005-84d3-fc34fcad5469" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/9dac3b78-edaa-464c-9ba4-7a58670b6cf7" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/95016832-65b4-40ea-9761-89ea8e1ca9e8" width="60" height="60"> |
 
