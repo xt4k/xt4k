@@ -8,7 +8,7 @@ Current tasks:
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> I'm learning [**Python automated testing stack**](https://www.udemy.com/course/learn-selenium-automation-in-easy-python-language) and 
 - 👯 I’m looking to collaborate on **interested project with good reward**
 
-<h5 align="left" color="black"> Examples of projects developed by me in in pet-projects from are available [here](https://github.com/xt4k/)<h5>
+[<h5 align="left" color="black"> Examples of projects developed by me in in pet-projects from are available<h5>](https://github.com/xt4k/)
 
 - You can reach me: [![Telegram](https://img.shields.io/badge/-Telegram-0b0a1a?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yuriy_logvinov)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriy-logvinov)
