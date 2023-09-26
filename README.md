@@ -21,11 +21,7 @@ Current tasks:
 
 | Java | Groovy | PowerShell | VBScript | *Python (in progress)* |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| <img src="https://user-images.githubusercontent.com/38681283/120561837-f7721580-c40d-11eb-8590-7b3b0b5eb50d.png" width="80" height="80"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/0677aa9e-94b5-41d5-ab8b-36dc6a2e772b" width="100" height="100"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/b0d4ebe3-ac64-4364-b6ee-4ee7106b30a3" width="80" height="80"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/9a57e97f-b7bc-40de-bb1f-b49b73100f6e" width="80" height="80"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/5285ed8c-75d7-429c-baa5-0af5239f619a" width="80" height="80"> | 
-
-![image](https://github.com/xt4k/xt4k/assets/38681283/9a57e97f-b7bc-40de-bb1f-b49b73100f6e)
-
-
+| <img src="https://user-images.githubusercontent.com/38681283/120561837-f7721580-c40d-11eb-8590-7b3b0b5eb50d.png" width="80" height="80"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/403d8b59-10b3-4dbf-8229-290dc74aa2ba" width="100" height="100"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/b0d4ebe3-ac64-4364-b6ee-4ee7106b30a3" width="80" height="80"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/9a57e97f-b7bc-40de-bb1f-b49b73100f6e" width="80" height="80"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/5285ed8c-75d7-429c-baa5-0af5239f619a" width="80" height="80"> | 
 
 <h4 align="left">IDE:</h4>
 
