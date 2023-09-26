@@ -56,9 +56,9 @@ Current tasks:
 
 <h4 align="left">Cloud and Servers:</h4>
 
-| AWS | MS Azure | Docker | Kubernetes | Selenoid | Apache Tomcat |
-|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| <img src="https://github.com/xt4k/xt4k/assets/38681283/3b0ba4ad-9b9e-46bd-8f6d-7b5b90ca7f24" width="80" height="80"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/99119ec4-1a2a-4df2-aac8-b98ac1003d7d" width="110" height="40"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/c646c3fc-cb80-4214-b917-80f163b6d620" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/8fc13c14-ffd5-4005-84d3-fc34fcad5469" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/9dac3b78-edaa-464c-9ba4-7a58670b6cf7" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/95016832-65b4-40ea-9761-89ea8e1ca9e8" width="60" height="60"> |
+| AWS | MS Azure | Docker | Docker | Kubernetes | Selenoid | Apache Tomcat |
+|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| <img src="https://github.com/xt4k/xt4k/assets/38681283/3b0ba4ad-9b9e-46bd-8f6d-7b5b90ca7f24" width="80" height="80"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/99119ec4-1a2a-4df2-aac8-b98ac1003d7d" width="110" height="40"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/c646c3fc-cb80-4214-b917-80f163b6d620" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/38143832-b9c5-4f0a-b2b7-91ee4cba5fbf" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/8fc13c14-ffd5-4005-84d3-fc34fcad5469" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/9dac3b78-edaa-464c-9ba4-7a58670b6cf7" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/95016832-65b4-40ea-9761-89ea8e1ca9e8" width="60" height="60"> |
 
 <h4 align="left">API:</h4>
 
@@ -83,13 +83,19 @@ Current tasks:
 |:---------:|:-----:|:--------:|:--------:|
 | <img src="https://user-images.githubusercontent.com/38681283/120562749-b5e26a00-c40f-11eb-91d9-641e254428c9.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/38681283/120562784-c692e000-c40f-11eb-8298-aa3858159184.png" width="50" height="50"> | <img src="https://user-images.githubusercontent.com/38681283/248457688-2df513b9-56c6-42df-96a5-27b3ccf0e00d.png" width="60" height="60"> | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/dd07cd20-5a95-4672-96a4-684a39440b24.png" width="80" height="60"> | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/7fcc4497-4f1c-449d-85fa-4ee1fd1531c3.png" width="80" height="60"> |
 
+
+
+| Appium | - | - | SauceLabs | Browserstack | - | Telegram API |
+|:-------------:|:--------:|:------:|:------------:|:--------------:|:---------:|:------:|
+<img src="https://user-images.githubusercontent.com/38681283/120563090-72d4c680-c410-11eb-8a3f-2309be0a818f.png" width="40" height="40"> |<img src="https://user-images.githubusercontent.com/38681283/120566097-335da880-c417-11eb-9e7b-248f6d5d4370.png" width="50" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120566010-eed20d00-c416-11eb-940d-56923ceff1bf.png" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120563529-79b00900-c411-11eb-8ab7-d5caf8b11ac1.png" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120565685-4ae86180-c416-11eb-9e62-42edc0e07e14.png" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120563229-bf200680-c410-11eb-91a6-d54243d0cda6.png" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120566160-54be9480-c417-11eb-86b7-4445fcdc8183.png" width="40" height="40"> |
+
 =========================================================================================================================================================================================
 
 ## Technology stack
 
-| Jakarta | Lombok | Allure |
-|:------------:|:-------:|:--------:|
-| <img src="https://user-images.githubusercontent.com/38681283/248458847-7136dbda-f182-471f-9ee8-c8963e9cbd17.png" width="60" height="60"> | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/e064428e-560c-4357-b2aa-2501a7d7da1b.png" width="60" height="60"> | <img src="https://user-images.githubusercontent.com/38681283/120562749-b5e26a00-c40f-11eb-91d9-641e254428c9.png" width="40" height="40"> <img src="https://user-images.githubusercontent.com/38681283/120562784-c692e000-c40f-11eb-8298-aa3858159184.png" width="40" height="40"> |
+| Jakarta | Lombok |
+|:------------:|:-------:|
+| <img src="https://user-images.githubusercontent.com/38681283/248458847-7136dbda-f182-471f-9ee8-c8963e9cbd17.png" width="60" height="60"> | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/e064428e-560c-4357-b2aa-2501a7d7da1b.png" width="60" height="60"> |
 
 | Appium | Rest Assured | Selenium | Jira | Browserstack | Android Studio | Telegram |
 |:-------------:|:--------:|:------:|:------------:|:--------------:|:---------:|:------:|
