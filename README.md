@@ -1,6 +1,6 @@
 $\color{red}{This \space page \space is \space under \space construction \space now}$
 
-$\color{red}{This\space\page\under\construction\now}$
+$\color{red}{This\page\under\construction\now}$
 
 # $\textcolor{yellow}{This\ is\ a\ Big\ Title}$
 
