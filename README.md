@@ -2,7 +2,7 @@
 
 ==
 
-![This page is under construction now](https://placehold.co/15x15/f03c15/f03c15.png)`#f03c15`
+![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)`This page is under construction now`
 
 ==
 - ![#f03c15](This page is under construction now) `#f03c15`
