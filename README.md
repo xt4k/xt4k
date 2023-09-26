@@ -42,7 +42,7 @@ Current tasks:
 
 | Git | Bitbucket | Github | Gitlab | TortoiseSVN |
 |:----:|:-----:|:-----:|:-----:|:-----:|
-| <img src="https://user-images.githubusercontent.com/38681283/120561799-e88b6300-c40d-11eb-91ba-d4103ef6d4b5.png" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/6ddb4da8-4cde-4ceb-b5e8-2f2aa0e48235" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/649db002-dd49-487f-8333-7c7940383ef2" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/d8a863bd-04fb-4aca-9d42-1b919ca2c9eb" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/7b2a7408-cd68-4c07-b152-c9b39b6cbb51" width="60" height="60"> |
+| <img src="https://github.com/xt4k/xt4k/assets/38681283/e3da1bad-14e8-410c-a3b4-da759e35ee79" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/6ddb4da8-4cde-4ceb-b5e8-2f2aa0e48235" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/649db002-dd49-487f-8333-7c7940383ef2" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/d8a863bd-04fb-4aca-9d42-1b919ca2c9eb" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/7b2a7408-cd68-4c07-b152-c9b39b6cbb51" width="60" height="60"> |
 
 <h4 align="left">DB:</h4>
 
@@ -95,16 +95,6 @@ Current tasks:
 | Jakarta | Lombok |
 |:------------:|:-------:|
 | <img src="https://user-images.githubusercontent.com/38681283/248458847-7136dbda-f182-471f-9ee8-c8963e9cbd17.png" width="60" height="60"> | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/e064428e-560c-4357-b2aa-2501a7d7da1b.png" width="60" height="60"> |
-
-| Appium | Rest Assured | Selenium | Jira | Browserstack | Android Studio | Telegram |
-|:-------------:|:--------:|:------:|:------------:|:--------------:|:---------:|:------:|
-<img src="https://user-images.githubusercontent.com/38681283/120563090-72d4c680-c410-11eb-8a3f-2309be0a818f.png" width="40" height="40"> |<img src="https://user-images.githubusercontent.com/38681283/120566097-335da880-c417-11eb-9e7b-248f6d5d4370.png" width="50" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120566010-eed20d00-c416-11eb-940d-56923ceff1bf.png" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120563529-79b00900-c411-11eb-8ab7-d5caf8b11ac1.png" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120565685-4ae86180-c416-11eb-9e62-42edc0e07e14.png" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120563229-bf200680-c410-11eb-91a6-d54243d0cda6.png" width="40" height="40"> | <img src="https://user-images.githubusercontent.com/38681283/120566160-54be9480-c417-11eb-86b7-4445fcdc8183.png" width="40" height="40"> |
-
-
-
-
-
-
 
 
 <h3 align="left">Connect with me:</h3>
