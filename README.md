@@ -1,6 +1,16 @@
 ### Hi there 👋 
 # This page is under construction now
 
+## Who am I:
+### Software Development Engineer in Test / Automarion QA Engineer
+## with 10+ years experience in Quality Assurance andb
+Software Testing web/mobile/desktop applications.
+I have experience in deploying from scratch a high-efficient modern cloud-based
+CI-CD system with automated testing integrated to Jira, Test Rail, MS Teams, e-mail
+For the moment I want to find an interesting well-paid job where I can realize my
+potential, especially interested in DevOps and cloud technologies.
+
+
 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
