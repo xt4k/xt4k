@@ -3,12 +3,10 @@
 
 ## Who am I:
 ### Software Development Engineer in Test / Automarion QA Engineer
-## with 10+ years experience in Quality Assurance andb
-Software Testing web/mobile/desktop applications.
-I have experience in deploying from scratch a high-efficient modern cloud-based
-CI-CD system with automated testing integrated to Jira, Test Rail, MS Teams, e-mail
-For the moment I want to find an interesting well-paid job where I can realize my
-potential, especially interested in DevOps and cloud technologies.
+## with 10+ years experience in Quality Assurance and 
+## I have experience in testing web/mobile/desktop applications, UI/API/web-services
+## Also I have experience in deploying from scratch a high-efficient modern cloud-based CI-CD system with automated testing integrated to project control tools like Jira, Test Rail and communication channels: e-mail, MS Teams, Telegram etc.
+## What I want to find: - An interesting well-paid project where I can realize my potential, especially interested in DevOps and cloud technologies.
 
 
 Languages
