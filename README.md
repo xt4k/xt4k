@@ -1,13 +1,5 @@
-- ![#f03c15]This page is under construction now`#f03c15`
+- ![#f03c15](This page is under construction now) `#f03c15`
 
-# Markdown
-
-# Markdown
-     <span style="color:red">your text here</span>
-    ---
-    output: pdf_document
-    ---
-    Roses are \textcolor{red}{red}, violets are \textcolor{blue}{blue}.
 
 <h1 align="center">Yuriy Logvinov</h1>
 <h3 align="center">Certified Automation QA engineer with developer experience</h3>
