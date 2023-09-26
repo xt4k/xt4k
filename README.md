@@ -1,8 +1,6 @@
 $\color{red}{This \space page \space is \space under \space construction \space now}$
 
-```diff
-- This page is under construction now
-```
+## $\textcolor{yellow}{This\ is\ a\ Big\ Title}$
 
 
 <h1 align="center">Yuriy Logvinov</h1>
