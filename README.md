@@ -1,3 +1,4 @@
+# This page is under construction now
 
 <h1 align="center">Yuriy Logvinov</h1>
 <h3 align="center">Certified Automation QA engineer with developer experience</h3>
@@ -119,7 +120,6 @@ Current tasks:
 
 
 ### Hi there 👋 
-# This page is under construction now
 
 
 
