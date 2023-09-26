@@ -1,4 +1,5 @@
-<h1 align="center">Yuriy Logvinov</h1>![MY_PHOTO_2023_sep_22_4](https://github.com/xt4k/xt4k/assets/38681283/dbdfcc64-ee5e-4867-9771-7cf9a20e83cd)
+<h1 align="center">Yuriy Logvinov</h1>!
+[![image][MY_PHOTO_2023_sep_22_4](https://github.com/xt4k/xt4k/assets/38681283/dbdfcc64-ee5e-4867-9771-7cf9a20e83cd)]
 
 <h3 align="center">An certified Automation QA engineer with developer experience</h3>
 
