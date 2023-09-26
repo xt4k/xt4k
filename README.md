@@ -60,17 +60,27 @@ Current tasks:
 |:----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | <img src="https://github.com/xt4k/xt4k/assets/38681283/3b0ba4ad-9b9e-46bd-8f6d-7b5b90ca7f24" width="80" height="80"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/99119ec4-1a2a-4df2-aac8-b98ac1003d7d" width="110" height="40"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/c646c3fc-cb80-4214-b917-80f163b6d620" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/8fc13c14-ffd5-4005-84d3-fc34fcad5469" width="60" height="60"> |  <img src="https://github.com/xt4k/xt4k/assets/38681283/9dac3b78-edaa-464c-9ba4-7a58670b6cf7" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/95016832-65b4-40ea-9761-89ea8e1ca9e8" width="60" height="60"> |
 
+<h4 align="left">API:</h4>
+
+| Postman | Swagger | Dev Tools | Fiddler |
+|:------:|:-----:|:-----:|:-----:|
+| <img src="https://github.com/xt4k/xt4k/assets/38681283/764a1839-fe75-4d4e-9115-87e7f02c540b" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/9f0d2f91-d20e-41bc-abc3-6ca9883b7424" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/4af50c2b-17c1-4903-b808-e086d4478cac" width="110" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/95c4a9a5-cf5e-474b-8ff0-f542f1288a9e" width="60" height="60"> | 
+
+![image](https://github.com/xt4k/xt4k/assets/38681283/4af50c2b-17c1-4903-b808-e086d4478cac)
+![image](https://github.com/xt4k/xt4k/assets/38681283/764a1839-fe75-4d4e-9115-87e7f02c540b)
+
+![image](https://github.com/xt4k/xt4k/assets/38681283/9f0d2f91-d20e-41bc-abc3-6ca9883b7424)
+
+![image](https://github.com/xt4k/xt4k/assets/38681283/95c4a9a5-cf5e-474b-8ff0-f542f1288a9e)
 
 
-Server
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
+API
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-![image](https://github.com/xt4k/xt4k/assets/38681283/95016832-65b4-40ea-9761-89ea8e1ca9e8)
-
-![image](https://github.com/xt4k/xt4k/assets/38681283/9dac3b78-edaa-464c-9ba4-7a58670b6cf7)
-
-
+Fiddler
 
 
 =========================================================================================================================================================================================
