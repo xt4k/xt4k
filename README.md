@@ -21,9 +21,9 @@ Current tasks:
 
 <h3 align="left">Languages:</h3>
 
-| Java | Groovy | PowerShell |
-|:-----:|:-----:|:-----:|
-| <img src="https://user-images.githubusercontent.com/38681283/120561837-f7721580-c40d-11eb-8590-7b3b0b5eb50d.png" width="80" height="80"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/0677aa9e-94b5-41d5-ab8b-36dc6a2e772b" width="100" height="100"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/b0d4ebe3-ac64-4364-b6ee-4ee7106b30a3" width="80" height="80"> | 
+| Java | Groovy | PowerShell | PowerShell |
+|:-----:|:-----:|:-----:|:-----:|
+| <img src="https://user-images.githubusercontent.com/38681283/120561837-f7721580-c40d-11eb-8590-7b3b0b5eb50d.png" width="80" height="80"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/0677aa9e-94b5-41d5-ab8b-36dc6a2e772b" width="100" height="100"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/b0d4ebe3-ac64-4364-b6ee-4ee7106b30a3" width="80" height="80"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/5285ed8c-75d7-429c-baa5-0af5239f619a" width="80" height="80"> | 
 
 <h3 align="left">IDE:</h3>
 
@@ -36,18 +36,6 @@ Current tasks:
 |Jenkins | Gitlab CI | Github Actions|
 |:----:|:-----:|:-----:|
 | <img src="https://user-images.githubusercontent.com/38681283/120562827-e0342780-c40f-11eb-9430-05ae54f145b1.png" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/d8a863bd-04fb-4aca-9d42-1b919ca2c9eb" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/5c7b12c5-eee6-4210-bea3-cc8ab326ab65" width="60" height="60"> 
-
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-
-![image](https://github.com/xt4k/xt4k/assets/38681283/d8a863bd-04fb-4aca-9d42-1b919ca2c9eb)
-
-
-![image](https://github.com/xt4k/xt4k/assets/38681283/5c7b12c5-eee6-4210-bea3-cc8ab326ab65)
-
-
 
 <h3 align="left">Code Control:</h3>
 
