@@ -61,9 +61,17 @@ Current tasks:
 
 <h4 align="left">API:</h4>
 
-| Postman | Swagger | Dev Tools | Fiddler | Rest Assured | Serenity | Cucumber |
-|:------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| <img src="https://github.com/xt4k/xt4k/assets/38681283/764a1839-fe75-4d4e-9115-87e7f02c540b" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/9f0d2f91-d20e-41bc-abc3-6ca9883b7424" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/4af50c2b-17c1-4903-b808-e086d4478cac" width="110" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/95c4a9a5-cf5e-474b-8ff0-f542f1288a9e" width="60" height="60"> | <img src="https://user-images.githubusercontent.com/38681283/120566097-335da880-c417-11eb-9e7b-248f6d5d4370.png" width="70" height="60"> |<img src="https://github.com/xt4k/xt4k/assets/38681283/38dbdac6-312d-4e29-abc6-4f7ef5a5f5d7" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/ebf42e66-61a3-4d7a-89ca-e1785604ab35" width="60" height="60"> |
+| Postman | Swagger | Dev Tools | Fiddler | Rest Assured | Serenity | Cucumber | REST API | SOAP UI |
+|:------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| <img src="https://github.com/xt4k/xt4k/assets/38681283/764a1839-fe75-4d4e-9115-87e7f02c540b" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/9f0d2f91-d20e-41bc-abc3-6ca9883b7424" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/4af50c2b-17c1-4903-b808-e086d4478cac" width="110" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/95c4a9a5-cf5e-474b-8ff0-f542f1288a9e" width="60" height="60"> | <img src="https://user-images.githubusercontent.com/38681283/120566097-335da880-c417-11eb-9e7b-248f6d5d4370.png" width="70" height="60"> |<img src="https://github.com/xt4k/xt4k/assets/38681283/38dbdac6-312d-4e29-abc6-4f7ef5a5f5d7" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/ebf42e66-61a3-4d7a-89ca-e1785604ab35" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/a17afe4a-e6f5-4c2f-8cf4-7ca3b23bec7c" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/b34f6f01-c907-441c-89a7-441cb9549052" width="60" height="60"> |
+
+soapui
+![image](https://github.com/xt4k/xt4k/assets/38681283/b34f6f01-c907-441c-89a7-441cb9549052)
+
+
+rest API
+![image](https://github.com/xt4k/xt4k/assets/38681283/a17afe4a-e6f5-4c2f-8cf4-7ca3b23bec7c)
+
 
 
 <h4 align="left">Self Education:</h4>
