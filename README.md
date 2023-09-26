@@ -47,19 +47,7 @@ Current tasks:
 
 | MongoDB | MS SQL | MySql |
 |:----:|:-----:|:-----:|
-| <img src="https://github.com/xt4k/xt4k/assets/38681283/bc94c98a-9c23-4827-89e6-9a233cae7439" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/27ad7a35-552e-46b9-869b-831b1c8c31a3" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/d2c525bb-c269-40cb-aeb7-e40aed51e6fe" width="90" height="60"> | 
-
-![image](https://github.com/xt4k/xt4k/assets/38681283/bc94c98a-9c23-4827-89e6-9a233cae7439)
-
-![image](https://github.com/xt4k/xt4k/assets/38681283/27ad7a35-552e-46b9-869b-831b1c8c31a3)
-
-![image](https://github.com/xt4k/xt4k/assets/38681283/d2c525bb-c269-40cb-aeb7-e40aed51e6fe)
-
-
-DB 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+| <img src="https://github.com/xt4k/xt4k/assets/38681283/bc94c98a-9c23-4827-89e6-9a233cae7439" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/27ad7a35-552e-46b9-869b-831b1c8c31a3" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/d2c525bb-c269-40cb-aeb7-e40aed51e6fe" width="100" height="70"> | 
 
 
 
