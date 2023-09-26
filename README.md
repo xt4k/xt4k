@@ -27,10 +27,11 @@ Current tasks:
 
 <h3 align="left">IDE:</h3>
 
-| IntelliJ IDEA | VisualStudio Code | Pycharm | Eclipse |
+| IntelliJ IDEA | Visual Studio Code | Pycharm | Eclipse |
 |:-----:|:-----:|:----:|:------:|
-| <img src="https://user-images.githubusercontent.com/38681283/120561799-e88b6300-c40d-11eb-91ba-d4103ef6d4b5.png" width="40" height="40"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/b0d4ebe3-ac64-4364-b6ee-4ee7106b30a3" width="80" height="80"> | <img src="https://user-images.githubusercontent.com/38681283/120561837-f7721580-c40d-11eb-8590-7b3b0b5eb50d.png" width="80" height="80"> | <img src="https://user-images.githubusercontent.com/38681283/120561837-f7721580-c40d-11eb-8590-7b3b0b5eb50d.png" width="80" height="80"> | 
+| <img src="https://user-images.githubusercontent.com/38681283/120561799-e88b6300-c40d-11eb-91ba-d4103ef6d4b5.png" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/8fa91003-2352-41b8-977a-67c9f13d1ae3" width="60" height="60"> | <img src="https://user-images.githubusercontent.com/38681283/120561837-f7721580-c40d-11eb-8590-7b3b0b5eb50d.png" width="60" height="60"> | <img src="https://user-images.githubusercontent.com/38681283/120561837-f7721580-c40d-11eb-8590-7b3b0b5eb50d.png" width="60" height="60"> | 
 
+![image](https://github.com/xt4k/xt4k/assets/38681283/8fa91003-2352-41b8-977a-67c9f13d1ae3)
 
 
 
