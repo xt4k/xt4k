@@ -1,6 +1,6 @@
 
 <h1 align="center">Yuriy Logvinov</h1>
-<h3 align="center">An certified Automation QA engineer with developer experience</h3>
+<h3 align="center">Certified Automation QA engineer with developer experience</h3>
 <h5>I'm an AQA engineer with over 10 years of experience testing web, mobile and desktop applications - automated and manual. I have extensive experience working with multi-tier automated testing frameworks, including building from scratch or developing existing ones. I can create an automatic product quality control system or introduce new solutions/approaches to an existing one.</h5>
 <h5 align="left" color="black" size="small">About the experience of “building from scratch” - On one of my projects I developed **from scratch** a highly efficient modern cloud CI-CD system with automated testing, integrated with project management tools (Jira, Test Rail) and communication tools (MS Teams, email, Telegram).</h5>
 
