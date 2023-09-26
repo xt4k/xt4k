@@ -4,7 +4,8 @@
 <h5>I'm an AQA engineer with over 10 years of experience testing web, mobile and desktop applications - automated and manual. I have extensive experience working with multi-tier automated testing frameworks, including building from scratch or developing existing ones. I can create an automatic product quality control system or introduce new solutions/approaches to an existing one.</h5>
 <h5 align="left" color="black" size="small">About the experience of “building from scratch” - On one of my projects I developed **from scratch** a highly efficient modern cloud CI-CD system with automated testing, integrated with project management tools (Jira, Test Rail) and communication tools (MS Teams, email, Telegram).</h5>
 
-- Current task: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> - I'm learning [**Python automated testing stack**](https://www.udemy.com/course/learn-selenium-automation-in-easy-python-language) and 
+Current tasks:
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> I'm learning [**Python automated testing stack**](https://www.udemy.com/course/learn-selenium-automation-in-easy-python-language) and 
 - 👯 I’m looking to collaborate on **interested project with good reward**
 
 - Examples of projects developed by me in in pet-projects from are available [here](https://github.com/xt4k/)
