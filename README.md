@@ -37,16 +37,15 @@ Current tasks:
 |:----:|:-----:|:-----:|
 | <img src="https://user-images.githubusercontent.com/38681283/120562827-e0342780-c40f-11eb-9430-05ae54f145b1.png" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/7ab1794f-78fa-4ad5-b20e-1e686b1d7916" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/5c7b12c5-eee6-4210-bea3-cc8ab326ab65" width="60" height="60"> 
 
-![image](https://github.com/xt4k/xt4k/assets/38681283/7ab1794f-78fa-4ad5-b20e-1e686b1d7916)
+<h3 align="left">Code Version Control:</h3>
 
-
-<h3 align="left">Code Control:</h3>
-
-| Git | Bitbucket | Github | Gitlab |
-|:----:|:-----:|:-----:|:-----:|
-| <img src="https://user-images.githubusercontent.com/38681283/120561799-e88b6300-c40d-11eb-91ba-d4103ef6d4b5.png" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/6ddb4da8-4cde-4ceb-b5e8-2f2aa0e48235" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/649db002-dd49-487f-8333-7c7940383ef2" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/d8a863bd-04fb-4aca-9d42-1b919ca2c9eb" width="60" height="60"> |
+| Git | Bitbucket | Github | Gitlab | TortoiseSVN |
+|:----:|:-----:|:-----:|:-----:|:-----:|
+| <img src="https://user-images.githubusercontent.com/38681283/120561799-e88b6300-c40d-11eb-91ba-d4103ef6d4b5.png" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/6ddb4da8-4cde-4ceb-b5e8-2f2aa0e48235" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/649db002-dd49-487f-8333-7c7940383ef2" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/d8a863bd-04fb-4aca-9d42-1b919ca2c9eb" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/7b2a7408-cd68-4c07-b152-c9b39b6cbb51" width="60" height="60"> |
 
 VersionControl
+
+
 
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
 
