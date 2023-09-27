@@ -10,8 +10,11 @@ Current tasks:
 - 📄 About my experience in detail: [<img src="https://github.com/xt4k/xt4k/assets/38681283/6d7bcb1f-05d1-4407-920c-cb47cf8528ba" alt="Google Drive" width="40" height="40">](https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing)
 
 - 📄 My certificates:
+  | [ISTQB](https://drive.google.com/file/d/1xiyVZMxWk3xHfYW8O_lqckc2nKkxwGIf/view) | QA.GURU | AWS | SPRING | Rest Assured | Serenity | Cucumber | REST API | SOAP UI |
+|:-:|:-:|:-:|:-:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| <img src=https://github.com/xt4k/xt4k/assets/38681283/fb88d6b1-4215-4302-bec6-80dc47d9b057.png width="60" height="40"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/9f0d2f91-d20e-41bc-abc3-6ca9883b7424" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/4af50c2b-17c1-4903-b808-e086d4478cac" width="110" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/95c4a9a5-cf5e-474b-8ff0-f542f1288a9e" width="60" height="60"> | <img src="https://user-images.githubusercontent.com/38681283/120566097-335da880-c417-11eb-9e7b-248f6d5d4370.png" width="70" height="60"> |<img src="https://github.com/xt4k/xt4k/assets/38681283/38dbdac6-312d-4e29-abc6-4f7ef5a5f5d7" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/ebf42e66-61a3-4d7a-89ca-e1785604ab35" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/a17afe4a-e6f5-4c2f-8cf4-7ca3b23bec7c" width="90" height="90"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/b34f6f01-c907-441c-89a7-441cb9549052" width="60" height="60"> |
   -----
-  <img src=https://github.com/xt4k/xt4k/assets/38681283/fb88d6b1-4215-4302-bec6-80dc47d9b057.png width="60" height="40">[ISTQB](https://drive.google.com/file/d/1xiyVZMxWk3xHfYW8O_lqckc2nKkxwGIf/view), 
+  , 
   <img src=https://github.com/xt4k/xt4k/assets/38681283/5c4e2fb1-1621-40df-981e-8019a94b2b97.png width="40" height="40">[QA.GURU](https://drive.google.com/file/d/1LO3xxMA_kzw0-7x2RtgB_FLj_Bm4oIn-/view),
   <img src="https://github.com/xt4k/xt4k/assets/38681283/3b0ba4ad-9b9e-46bd-8f6d-7b5b90ca7f24" width="40" height="40">[AWS](https://drive.google.com/file/d/1AUggNGA5SHwnBRwB_t45BWFBQ4Aup62y/view),
   <img src="https://user-images.githubusercontent.com/38681283/248457688-2df513b9-56c6-42df-96a5-27b3ccf0e00d.png" width="40" height="40">[SPRING](https://drive.google.com/file/d/19meN_MmW9o1ylAI-uR39ozEkvE5eMlq_/view),
