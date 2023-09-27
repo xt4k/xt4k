@@ -21,7 +21,7 @@ vvvv
 
 ![ISTQB-logo](https://github.com/xt4k/xt4k/assets/38681283/315d76d0-da47-4cf6-8d45-7ab71b70ea20)
 jjjjj
-![ISTQB-logo](https://github.com/xt4k/xt4k/assets/38681283/315d76d0-da47-4cf6-8d45-7ab71b70ea20.png)
+![ISTQB-logo](/assets/38681283/315d76d0-da47-4cf6-8d45-7ab71b70ea20.png)
 
 nnnn
 
