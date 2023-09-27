@@ -35,7 +35,7 @@ Current tasks:
 
 |Jenkins | Gitlab CI | Github Actions|
 |:----:|:-----:|:-----:|
-| <img src="https://user-images.githubusercontent.com/38681283/120562827-e0342780-c40f-11eb-9430-05ae54f145b1.png" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/7ab1794f-78fa-4ad5-b20e-1e686b1d7916" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/5c7b12c5-eee6-4210-bea3-cc8ab326ab65" width="60" height="60"> 
+| <img src="https://user-images.githubusercontent.com/38681283/120562827-e0342780-c40f-11eb-9430-05ae54f145b1.png" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/7ab1794f-78fa-4ad5-b20e-1e686b1d7916" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/f99f6408-ba72-46d7-9e3b-def4c04d0d2c" width="60" height="60"> 
 
 <h4 align="left">Code Version Control:</h4>
 
