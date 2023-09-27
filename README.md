@@ -15,7 +15,7 @@ Current tasks:
 
 -- train
 
-[ISTQB][<https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing><img src=https://github.com/xt4k/xt4k/assets/38681283/f3014f27-d3f1-49b5-ae4f-51c97f7a063a width="40" height="40"></a>]
+[ISTQB][<https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing><img src=https://github.com/xt4k/xt4k/assets/38681283/f3014f27-d3f1-49b5-ae4f-51c97f7a063a width="40" height="40">]
 
 aaaa
 
