@@ -14,9 +14,9 @@ Current tasks:
 [![text](https://github.com/xt4k/xt4k/assets/38681283/f3014f27-d3f1-49b5-ae4f-51c97f7a063a)](https://drive.google.com/file/d/1xiyVZMxWk3xHfYW8O_lqckc2nKkxwGIf/view)
 
 -- train
-![istqb-logo](https://github.com/xt4k/xt4k/assets/38681283/36a7da97-9e24-4f3d-8afb-18acf4c6598c)
+![image](https://drive.google.com/uc?export=view&id=1913oZeBZPBNiUuk8gu3ZSbLBA2l_VQtG)
 
-![istqb](URL "Title")
+nnnn
 
 [ISTQB][<https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing><img src=https://github.com/xt4k/xt4k/assets/38681283/f3014f27-d3f1-49b5-ae4f-51c97f7a063a width="40" height="40">]
 
