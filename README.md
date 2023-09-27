@@ -14,7 +14,7 @@ Current tasks:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuriy.logvinov@gmail.com)
 
 
-- 📄 About my [experience: <img src="https://github.com/xt4k/xt4k/assets/38681283/6d7bcb1f-05d1-4407-920c-cb47cf8528ba" alt="Google Drive" width="40" height="40">](https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing)
+- 📄 About my experience: [<img src="https://github.com/xt4k/xt4k/assets/38681283/6d7bcb1f-05d1-4407-920c-cb47cf8528ba" alt="Google Drive" width="40" height="40">](https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing)
 
 
 
