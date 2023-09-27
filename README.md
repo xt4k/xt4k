@@ -118,7 +118,7 @@ Current tasks:
 
 | Documentum | Livelink | Sharepoint | Veeva |
 |:--------:|:-----:|:--------:|:--------:|
-| <img src="https://github.com/xt4k/xt4k/assets/38681283/f143b2ac-43ee-4cf9-b702-5bae1e7701bd" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/9e81924e-9997-4bb8-a7fc-ae60897a18a2" width="120" height="50"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/3f8aba03-7447-45d3-a5b4-a643655b9c13" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/d7fcb392-edc2-45cb-b895-95379f62b728" width="100" height="50"> |
+| <img src="https://github.com/xt4k/xt4k/assets/38681283/f143b2ac-43ee-4cf9-b702-5bae1e7701bd" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/9e81924e-9997-4bb8-a7fc-ae60897a18a2" width="120" height="50"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/3f8aba03-7447-45d3-a5b4-a643655b9c13" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/d7fcb392-edc2-45cb-b895-95379f62b728" width="100" height="40"> |
 
 <!--h3 align="left">Connect with me:</h3>
 <p align="left">
