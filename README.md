@@ -13,7 +13,7 @@ Current tasks:
 
 
 ---
-<a href="https://drive.google.com/uc?export=view&id=1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS"><img src="https://github.com/xt4k/xt4k/assets/38681283/fb88d6b1-4215-4302-bec6-80dc47d9b057.png" width="120" height="80" title="Click to enlarge picture" />
+<a href="https://drive.google.com/uc?export=view&id=1xiyVZMxWk3xHfYW8O_lqckc2nKkxwGIf"><img src="https://github.com/xt4k/xt4k/assets/38681283/fb88d6b1-4215-4302-bec6-80dc47d9b057.png" width="120" height="80" title="Click to enlarge picture" />
 
 
 
