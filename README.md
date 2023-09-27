@@ -7,11 +7,13 @@ Current tasks:
 - <img src="https://github.com/xt4k/xt4k/assets/38681283/a5181713-690f-4813-b489-af99ffadcd8e" alt="python" width="50" height="40"/> + <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> I'm learning [**Python automated testing stack**](https://www.udemy.com/course/learn-selenium-automation-in-easy-python-language) 
 - <img src="https://github.com/xt4k/xt4k/assets/38681283/eb6103f5-b4d9-47c5-89e9-ffc6599212c7" width="50" height="20"> I’m looking to collaborate on **interested project with good reward**
 
-![image](https://github.com/xt4k/xt4k/assets/38681283/a5181713-690f-4813-b489-af99ffadcd8e)
+- 📄 About my experience in detail: [<img src="https://github.com/xt4k/xt4k/assets/38681283/6d7bcb1f-05d1-4407-920c-cb47cf8528ba" alt="Google Drive" width="40" height="40">](https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing)
+
+- 📄 My certification: [<img src="https://github.com/xt4k/xt4k/assets/38681283/f3014f27-d3f1-49b5-ae4f-51c97f7a063a" alt="ISTQB CT FL" width="40" height="40">](https://drive.google.com/file/d/1xiyVZMxWk3xHfYW8O_lqckc2nKkxwGIf/view)
 
 
+![image](https://github.com/xt4k/xt4k/assets/38681283/f3014f27-d3f1-49b5-ae4f-51c97f7a063a)
 
-- 📄 About my experience: [<img src="https://github.com/xt4k/xt4k/assets/38681283/6d7bcb1f-05d1-4407-920c-cb47cf8528ba" alt="Google Drive" width="40" height="40">](https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing)
 
 <h3 align="left">Technologies:</h3>
 <h4 align="left">Language:</h4>
@@ -113,9 +115,6 @@ Current tasks:
 | Udemy | LeetCode | Stack Overflow |
 |:--------:|:-----:|:--------:|
 | <img src="https://github.com/xt4k/xt4k/assets/38681283/ebc42810-7f62-4743-a5e8-df7dc7eb9430" width="110" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/749b7cfb-2ef2-4e40-884c-4760409247ca" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/24098115-ddb2-4fdd-99da-574d326190fd" width="60" height="60"> |
-
-
-- 📄 About my experience: [<img src="https://github.com/xt4k/xt4k/assets/38681283/6d7bcb1f-05d1-4407-920c-cb47cf8528ba" alt="Google Drive" width="40" height="40">](https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing)
 
 
 - You can reach me: [![Telegram](https://img.shields.io/badge/-Telegram-0b0a1a?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yuriy_logvinov)
