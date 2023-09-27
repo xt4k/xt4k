@@ -4,7 +4,7 @@
 <h5 align="left" color="black">About the experience of “building from scratch” - On one of my projects I developed **from scratch** a highly efficient modern cloud CI-CD system with automated testing, integrated with project management tools (Jira, Test Rail) and communication tools (MS Teams, email, Telegram).</h5>
 
 Current tasks:
-- <img src="https://github.com/xt4k/xt4k/assets/38681283/a5181713-690f-4813-b489-af99ffadcd8e" alt="python" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> I'm learning [**Python automated testing stack**](https://www.udemy.com/course/learn-selenium-automation-in-easy-python-language) 
+- <img src="https://github.com/xt4k/xt4k/assets/38681283/a5181713-690f-4813-b489-af99ffadcd8e" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> I'm learning [**Python automated testing stack**](https://www.udemy.com/course/learn-selenium-automation-in-easy-python-language) 
 - <img src="https://github.com/xt4k/xt4k/assets/38681283/eb6103f5-b4d9-47c5-89e9-ffc6599212c7" width="50" height="20"> I’m looking to collaborate on **interested project with good reward**
 
 ![image](https://github.com/xt4k/xt4k/assets/38681283/a5181713-690f-4813-b489-af99ffadcd8e)
