@@ -9,7 +9,7 @@ Current tasks:
 
 - 📄 About my experience in detail: [<img src="https://github.com/xt4k/xt4k/assets/38681283/6d7bcb1f-05d1-4407-920c-cb47cf8528ba" alt="Google Drive" width="40" height="40">](https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing)
 
-- 📄 My certification: [ISTQB](https://drive.google.com/file/d/1xiyVZMxWk3xHfYW8O_lqckc2nKkxwGIf/view)
+- 📄 My certification: <img src=https://github.com/xt4k/xt4k/assets/38681283/f3014f27-d3f1-49b5-ae4f-51c97f7a063a width="40" height="40">[ISTQB](https://drive.google.com/file/d/1xiyVZMxWk3xHfYW8O_lqckc2nKkxwGIf/view)
 
 [![text](https://github.com/xt4k/xt4k/assets/38681283/f3014f27-d3f1-49b5-ae4f-51c97f7a063a)](https://drive.google.com/file/d/1xiyVZMxWk3xHfYW8O_lqckc2nKkxwGIf/view)
 
@@ -17,10 +17,7 @@ Current tasks:
 ![image](https://drive.google.com/uc?export=view&id=1913oZeBZPBNiUuk8gu3ZSbLBA2l_VQtG)
 ![istqb-logo](https://github.com/xt4k/xt4k/assets/38681283/6177b8e9-e3f5-44d9-9677-9037e09f8a84)
 
-vvvv
-[![ISTQB-logo](https://github.com/xt4k/xt4k/assets/38681283/315d76d0-da47-4cf6-8d45-7ab71b70ea20.png)](https://drive.google.com/file/d/1xiyVZMxWk3xHfYW8O_lqckc2nKkxwGIf/view)
 jjjjj
-
 
 <img src=https://github.com/xt4k/xt4k/assets/38681283/f3014f27-d3f1-49b5-ae4f-51c97f7a063a width="40" height="40">![ISTQB][<https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing>]
 
