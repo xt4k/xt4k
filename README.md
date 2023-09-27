@@ -19,11 +19,9 @@ Current tasks:
 
 vvvv
 
-![ISTQB-logo](https://github.com/xt4k/xt4k/assets/38681283/315d76d0-da47-4cf6-8d45-7ab71b70ea20.png)
+![ISTQB-logo](https://github.com/xt4k/xt4k/assets/38681283/315d76d0-da47-4cf6-8d45-7ab71b70ea20.png)(https://drive.google.com/file/d/1xiyVZMxWk3xHfYW8O_lqckc2nKkxwGIf/view)
 jjjjj
-![ISTQB-logo](/assets/38681283/315d76d0-da47-4cf6-8d45-7ab71b70ea20.png)
 
-nnnn
 
 [ISTQB][<https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing><img src=https://github.com/xt4k/xt4k/assets/38681283/f3014f27-d3f1-49b5-ae4f-51c97f7a063a width="40" height="40">]
 
