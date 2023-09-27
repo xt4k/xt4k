@@ -65,7 +65,7 @@ Current tasks:
 
 | Selenoid | Apache Tomcat |
 |:-----:|:-----:|
-| <img src="https://github.com/xt4k/xt4k/assets/38681283/8fc13c14-ffd5-4005-84d3-fc34fcad5469" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/9dac3b78-edaa-464c-9ba4-7a58670b6cf7" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/95016832-65b4-40ea-9761-89ea8e1ca9e8" width="60" height="60"> |
+| <img src="https://github.com/xt4k/xt4k/assets/38681283/9dac3b78-edaa-464c-9ba4-7a58670b6cf7" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/95016832-65b4-40ea-9761-89ea8e1ca9e8" width="60" height="60"> |
 
 <h4 align="left">Image</h4>
 
@@ -74,7 +74,6 @@ Current tasks:
 | <img src="https://github.com/xt4k/xt4k/assets/38681283/c646c3fc-cb80-4214-b917-80f163b6d620" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/38143832-b9c5-4f0a-b2b7-91ee4cba5fbf" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/8fc13c14-ffd5-4005-84d3-fc34fcad5469" width="60" height="60"> |
 
 ![image](https://github.com/xt4k/xt4k/assets/38681283/34639232-7c16-496a-b7cf-3cb7783b349b)
-
 
 <h4 align="left">API:</h4>
 
