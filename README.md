@@ -15,7 +15,7 @@ Current tasks:
 
 [![text](/assets/38681283/f3014f27-d3f1-49b5-ae4f-51c97f7a063a)](https://drive.google.com/file/d/1xiyVZMxWk3xHfYW8O_lqckc2nKkxwGIf/view)
 
-[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myprofile)
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://drive.google.com/file/d/1xiyVZMxWk3xHfYW8O_lqckc2nKkxwGIf/view)
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
