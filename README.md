@@ -46,7 +46,7 @@ Current tasks:
 <h4 align="left">DB:</h4>
 
 | MongoDB | MS SQL | MySql |
-|:----:|:-----:|:-----:|
+|:----:|:-----:|:---:|
 | <img src="https://github.com/xt4k/xt4k/assets/38681283/bc94c98a-9c23-4827-89e6-9a233cae7439" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/27ad7a35-552e-46b9-869b-831b1c8c31a3" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/d2c525bb-c269-40cb-aeb7-e40aed51e6fe" width="100" height="60"> | 
 
 <h4 align="left">Project Control:</h4>
