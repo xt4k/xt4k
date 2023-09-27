@@ -71,7 +71,7 @@ Current tasks:
 
 | Docker | Docker-Compose | Yaml | Kubernetes | 
 |:-----:|:-----:|:-----:|:-----:|
-| <img src="https://github.com/xt4k/xt4k/assets/38681283/c646c3fc-cb80-4214-b917-80f163b6d620" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/38143832-b9c5-4f0a-b2b7-91ee4cba5fbf" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/34639232-7c16-496a-b7cf-3cb7783b349b" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/8fc13c14-ffd5-4005-84d3-fc34fcad5469" width="60" height="60"> |
+| <img src="https://github.com/xt4k/xt4k/assets/38681283/c646c3fc-cb80-4214-b917-80f163b6d620" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/38143832-b9c5-4f0a-b2b7-91ee4cba5fbf" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/9bef67b0-2257-4d5a-8f27-2265702822a5" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/8fc13c14-ffd5-4005-84d3-fc34fcad5469" width="60" height="60"> |
 
 <h4 align="left">API:</h4>
 
