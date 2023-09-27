@@ -3,8 +3,7 @@
 <h5>I'm an AQA engineer with over 10 years of experience testing web, mobile and desktop applications - automated and manual. I have extensive experience working with multi-tier automated testing frameworks, including building from scratch or developing existing ones. I can create an automatic product quality control system or introduce new solutions/approaches to an existing one.</h5>
 <h5 align="left" color="black">About the experience of “building from scratch” - On one of my projects I developed **from scratch** a highly efficient modern cloud CI-CD system with automated testing, integrated with project management tools (Jira, Test Rail) and communication tools (MS Teams, email, Telegram).</h5>
 
-Current tasks:
-- <img src="https://github.com/xt4k/xt4k/assets/38681283/a5181713-690f-4813-b489-af99ffadcd8e" alt="python" width="50" height="40"/> + <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> I'm learning [**Python automated testing stack**](https://www.udemy.com/course/learn-selenium-automation-in-easy-python-language) 
+Status:
 - <img src="https://github.com/xt4k/xt4k/assets/38681283/eb6103f5-b4d9-47c5-89e9-ffc6599212c7" width="50" height="20"> I’m looking to collaborate on **interested project with good reward**
 
 -  <img src="https://github.com/xt4k/xt4k/assets/38681283/6d7bcb1f-05d1-4407-920c-cb47cf8528ba" alt="Google Drive" width="40" height="40"> [About my experience in detail:](https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing)
@@ -21,6 +20,8 @@ Current tasks:
 | Java | Groovy | PowerShell | VBScript | *Python (in progress)* |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
 | <img src="https://user-images.githubusercontent.com/38681283/120561837-f7721580-c40d-11eb-8590-7b3b0b5eb50d.png" width="80" height="80"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/403d8b59-10b3-4dbf-8229-290dc74aa2ba" width="100" height="80"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/b0d4ebe3-ac64-4364-b6ee-4ee7106b30a3" width="80" height="80"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/9a57e97f-b7bc-40de-bb1f-b49b73100f6e" width="80" height="80"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/5285ed8c-75d7-429c-baa5-0af5239f619a" width="80" height="80"> | 
+
+- <img src="https://github.com/xt4k/xt4k/assets/38681283/a5181713-690f-4813-b489-af99ffadcd8e" alt="python" width="50" height="40"/> + <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> I'm learning [**Python automated testing stack**](https://www.udemy.com/course/learn-selenium-automation-in-easy-python-language) 
 
 <h4 align="left">IDE:</h4>
 
