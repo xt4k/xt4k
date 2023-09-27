@@ -10,6 +10,7 @@ Current tasks:
 - 📄 About my experience in detail: [<img src="https://github.com/xt4k/xt4k/assets/38681283/6d7bcb1f-05d1-4407-920c-cb47cf8528ba" alt="Google Drive" width="40" height="40">](https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing)
 
 - 📄 My certificates:
+  -----
   <img src=https://github.com/xt4k/xt4k/assets/38681283/fb88d6b1-4215-4302-bec6-80dc47d9b057.png width="60" height="40">[ISTQB](https://drive.google.com/file/d/1xiyVZMxWk3xHfYW8O_lqckc2nKkxwGIf/view), 
   <img src=https://github.com/xt4k/xt4k/assets/38681283/5c4e2fb1-1621-40df-981e-8019a94b2b97.png width="40" height="40">[QA.GURU](https://drive.google.com/file/d/1LO3xxMA_kzw0-7x2RtgB_FLj_Bm4oIn-/view),
   <img src="https://github.com/xt4k/xt4k/assets/38681283/3b0ba4ad-9b9e-46bd-8f6d-7b5b90ca7f24" width="40" height="40">[AWS](https://drive.google.com/file/d/1AUggNGA5SHwnBRwB_t45BWFBQ4Aup62y/view),
@@ -19,7 +20,7 @@ Current tasks:
     <img src="https://github.com/xt4k/xt4k/assets/38681283/3cd94133-15ec-4af8-994a-adcec2e4e381" width="40" height="40">[SQL](https://drive.google.com/file/d/1kqaqujPYOg_D6t2SA58UXMSLG8SofkXq/view),
    <img src="https://github.com/xt4k/xt4k/assets/38681283/c646c3fc-cb80-4214-b917-80f163b6d620" width="40" height="40">+<img src="https://github.com/xt4k/xt4k/assets/38681283/8fc13c14-ffd5-4005-84d3-fc34fcad5469" width="40" height="40">[Docker & Kubernetes](https://drive.google.com/file/d/1bpx66lPSn9-leqZuC587fgkLQyW8OQSJ/view)
 
-
+----
 
 <h3 align="left">Technologies:</h3>
 <h4 align="left">Language:</h4>
