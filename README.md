@@ -16,8 +16,21 @@ Current tasks:
 
 -- train
 
+<h3>A PNG Image with embedded link:</h3>
+<img alt="PNG" src="http://www.plantuml.com/plantuml/png/IqmgBYbAJ2vHICv9B2vMSCfFKgZcKb28ZiueAIcmqjSlBo_NIwr8p2t8ITLBpi-DZUMgvG8fqhLJSCp9J4vLi5B8ICt9oGS0" />
+
+<h3>A SVG Image with embedded link:</h3>
+<img alt="SVG" src="http://www.plantuml.com/plantuml/svg/IqmgBYbAJ2vHICv9B2vMSCfFKgZcKb28ZiueAIcmqjSlBo_NIwr8p2t8ITLBpi-DZUMgvG8fqhLJSCp9J4vLi5B8ICt9oGS0" />
+
+<h3>PNG as Object:</h3>
+<object data="http://www.plantuml.com/plantuml/png/IqmgBYbAJ2vHICv9B2vMSCfFKgZcKb28ZiueAIcmqjSlBo_NIwr8p2t8ITLBpi-DZUMgvG8fqhLJSCp9J4vLi5B8ICt9oGS0" type="image/svg+xml"></object>  
+
+<h3>SVG as Object:</h3>
+<object data="http://www.plantuml.com/plantuml/svg/IqmgBYbAJ2vHICv9B2vMSCfFKgZcKb28ZiueAIcmqjSlBo_NIwr8p2t8ITLBpi-DZUMgvG8fqhLJSCp9J4vLi5B8ICt9oGS0" type="image/svg+xml"></object>
+
 <picture>
-  <img src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" width="50" height="40">
+  <img src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" width="80" height="80">(https://drive.google.com/file/d/1xiyVZMxWk3xHfYW8O_lqckc2nKkxwGIf/view)
+
 </picture>
 
 
