@@ -11,7 +11,11 @@ Current tasks:
 
 - 📄 My certification: <img src=https://github.com/xt4k/xt4k/assets/38681283/fb88d6b1-4215-4302-bec6-80dc47d9b057.png width="120" height="80">[ISTQB](https://drive.google.com/file/d/1xiyVZMxWk3xHfYW8O_lqckc2nKkxwGIf/view)
 
-![image](https://github.com/xt4k/xt4k/assets/38681283/fb88d6b1-4215-4302-bec6-80dc47d9b057)
+<div style="float: left;"><img src="https://github.com/xt4k/xt4k/assets/38681283/fb88d6b1-4215-4302-bec6-80dc47d9b057.png" width="128" height="128"/></div> 
+
+---
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1][![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
+---
 
 
 <h3 align="left">Technologies:</h3>
