@@ -9,16 +9,7 @@ Current tasks:
 
 [<h5 color="blue" align="center">Examples of projects developed by me in in pet-projects from are available<h5>](https://github.com/xt4k/)
 
-- You can reach me: [![Telegram](https://img.shields.io/badge/-Telegram-0b0a1a?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yuriy_logvinov)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriy-logvinov)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuriy.logvinov@gmail.com)
-
-
-- 📄 About my experience: [<img src="https://github.com/xt4k/xt4k/assets/38681283/6d7bcb1f-05d1-4407-920c-cb47cf8528ba" alt="Google Drive" width="40" height="40">](https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing)
-
-
-
-<h3 align="left">Technology stack:</h3>
+<h3 align="left">Technologies:</h3>
 <h4 align="left">Language:</h4>
 
 | Java | Groovy | PowerShell | VBScript | *Python (in progress)* |
@@ -79,13 +70,6 @@ Current tasks:
 |:------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | <img src="https://github.com/xt4k/xt4k/assets/38681283/764a1839-fe75-4d4e-9115-87e7f02c540b" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/9f0d2f91-d20e-41bc-abc3-6ca9883b7424" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/4af50c2b-17c1-4903-b808-e086d4478cac" width="110" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/95c4a9a5-cf5e-474b-8ff0-f542f1288a9e" width="60" height="60"> | <img src="https://user-images.githubusercontent.com/38681283/120566097-335da880-c417-11eb-9e7b-248f6d5d4370.png" width="70" height="60"> |<img src="https://github.com/xt4k/xt4k/assets/38681283/38dbdac6-312d-4e29-abc6-4f7ef5a5f5d7" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/ebf42e66-61a3-4d7a-89ca-e1785604ab35" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/a17afe4a-e6f5-4c2f-8cf4-7ca3b23bec7c" width="90" height="90"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/b34f6f01-c907-441c-89a7-441cb9549052" width="60" height="60"> |
 
-<h4 align="left">Self Education:</h4>
-
-| Udemy | LeetCode | Stack Overflow |
-|:--------:|:-----:|:--------:|
-| <img src="https://github.com/xt4k/xt4k/assets/38681283/ebc42810-7f62-4743-a5e8-df7dc7eb9430" width="110" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/749b7cfb-2ef2-4e40-884c-4760409247ca" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/24098115-ddb2-4fdd-99da-574d326190fd" width="60" height="60"> |
-
-
 <h4 align="left">Java Tech:</h4>
 
 | Maven | TestNG | Junit5 | Gradle | Selenide|
@@ -120,6 +104,19 @@ Current tasks:
 |:--------:|:-----:|:--------:|:--------:|
 | <img src="https://github.com/xt4k/xt4k/assets/38681283/f143b2ac-43ee-4cf9-b702-5bae1e7701bd" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/9e81924e-9997-4bb8-a7fc-ae60897a18a2" width="120" height="50"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/3f8aba03-7447-45d3-a5b4-a643655b9c13" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/d7fcb392-edc2-45cb-b895-95379f62b728" width="100" height="40"> |
 
+<h4 align="left">Self Education:</h4>
+
+| Udemy | LeetCode | Stack Overflow |
+|:--------:|:-----:|:--------:|
+| <img src="https://github.com/xt4k/xt4k/assets/38681283/ebc42810-7f62-4743-a5e8-df7dc7eb9430" width="110" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/749b7cfb-2ef2-4e40-884c-4760409247ca" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/24098115-ddb2-4fdd-99da-574d326190fd" width="60" height="60"> |
+
+
+- 📄 About my experience: [<img src="https://github.com/xt4k/xt4k/assets/38681283/6d7bcb1f-05d1-4407-920c-cb47cf8528ba" alt="Google Drive" width="40" height="40">](https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing)
+
+
+- You can reach me: [![Telegram](https://img.shields.io/badge/-Telegram-0b0a1a?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yuriy_logvinov)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriy-logvinov)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuriy.logvinov@gmail.com)
 <!--h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yuriy-logvinov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yuriy-logvinov/" height="30" width="40" /></a>
