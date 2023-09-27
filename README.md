@@ -5,7 +5,7 @@
 
 Current tasks:
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> I'm learning [**Python automated testing stack**](https://www.udemy.com/course/learn-selenium-automation-in-easy-python-language) 
-- <img src="https://github.com/xt4k/xt4k/assets/38681283/eb6103f5-b4d9-47c5-89e9-ffc6599212c7" width="40" height="40"> I’m looking to collaborate on **interested project with good reward**
+- <img src="https://github.com/xt4k/xt4k/assets/38681283/eb6103f5-b4d9-47c5-89e9-ffc6599212c7" width="50" height="20"> I’m looking to collaborate on **interested project with good reward**
 ![image](https://github.com/xt4k/xt4k/assets/38681283/eb6103f5-b4d9-47c5-89e9-ffc6599212c7)
 - <img src="https://github.com/xt4k/xt4k/assets/38681283/c18b5fbf-7d45-4b9f-b7c4-0047284d004c"
 
