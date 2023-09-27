@@ -4,13 +4,12 @@
 <h5 align="left" color="black">About the experience of “building from scratch” - On one of my projects I developed **from scratch** a highly efficient modern cloud CI-CD system with automated testing, integrated with project management tools (Jira, Test Rail) and communication tools (MS Teams, email, Telegram).</h5>
 
 Current tasks:
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> I'm learning [**Python automated testing stack**](https://www.udemy.com/course/learn-selenium-automation-in-easy-python-language) 
+- <img src="https://github.com/xt4k/xt4k/assets/38681283/a5181713-690f-4813-b489-af99ffadcd8e" alt="python" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> I'm learning [**Python automated testing stack**](https://www.udemy.com/course/learn-selenium-automation-in-easy-python-language) 
 - <img src="https://github.com/xt4k/xt4k/assets/38681283/eb6103f5-b4d9-47c5-89e9-ffc6599212c7" width="50" height="20"> I’m looking to collaborate on **interested project with good reward**
-![image](https://github.com/xt4k/xt4k/assets/38681283/eb6103f5-b4d9-47c5-89e9-ffc6599212c7)
-- <img src="https://github.com/xt4k/xt4k/assets/38681283/c18b5fbf-7d45-4b9f-b7c4-0047284d004c"
+
+![image](https://github.com/xt4k/xt4k/assets/38681283/a5181713-690f-4813-b489-af99ffadcd8e)
 
 
-[<h5 color="blue" align="center">Examples of projects developed by me in in pet-projects from are available<h5>](https://github.com/xt4k/)
 
 - 📄 About my experience: [<img src="https://github.com/xt4k/xt4k/assets/38681283/6d7bcb1f-05d1-4407-920c-cb47cf8528ba" alt="Google Drive" width="40" height="40">](https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing)
 
