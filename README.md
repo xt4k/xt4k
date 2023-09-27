@@ -19,7 +19,7 @@ Current tasks:
 
 
 <h3 align="left">Technology stack:</h3>
-<h4 align="left">Languages:</h4>
+<h4 align="left">Language:</h4>
 
 | Java | Groovy | PowerShell | VBScript | *Python (in progress)* |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -55,13 +55,13 @@ Current tasks:
 |:------:|:-----:|:-----:|:-----:|
 | <img src="https://github.com/xt4k/xt4k/assets/38681283/0e212e1c-6d0e-4063-8061-d5296f020c35" width="110" height="40"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/bd8202bd-5cbb-4ae5-b98e-b861f717fa68" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/34fa2477-a202-45b2-a594-eba33e9a59b9" width="90" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/97fd2c32-3ba4-4d4c-b90e-dc24544b95e8" width="80" height="60"> | 
 
-<h4 align="left">Clouds:</h4>
+<h4 align="left">Cloud:</h4>
 
 | AWS | MS Azure |
 |:----:|:-----:|
 | <img src="https://github.com/xt4k/xt4k/assets/38681283/3b0ba4ad-9b9e-46bd-8f6d-7b5b90ca7f24" width="80" height="80"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/99119ec4-1a2a-4df2-aac8-b98ac1003d7d" width="110" height="40"> |
 
-<h4 align="left">Servers:</h4>
+<h4 align="left">Server:</h4>
 
 | Selenoid | Apache Tomcat |
 |:-----:|:-----:|
