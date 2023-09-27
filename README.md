@@ -9,7 +9,7 @@ Current tasks:
 
 - 📄 About my experience in detail: [<img src="https://github.com/xt4k/xt4k/assets/38681283/6d7bcb1f-05d1-4407-920c-cb47cf8528ba" alt="Google Drive" width="40" height="40">](https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing)
 
-- 📄 My certification: [![ISTQB](<img src="assets/38681283/f3014f27-d3f1-49b5-ae4f-51c97f7a063a" width="40" height="40">)](https://drive.google.com/file/d/1xiyVZMxWk3xHfYW8O_lqckc2nKkxwGIf/view)
+- 📄 My certification: [![ISTQB](<img src="/38681283/f3014f27-d3f1-49b5-ae4f-51c97f7a063a" width="40" height="40">)](https://drive.google.com/file/d/1xiyVZMxWk3xHfYW8O_lqckc2nKkxwGIf/view)
 
 [![text](/assets/38681283/f3014f27-d3f1-49b5-ae4f-51c97f7a063a)](https://drive.google.com/file/d/1xiyVZMxWk3xHfYW8O_lqckc2nKkxwGIf/view)
 
