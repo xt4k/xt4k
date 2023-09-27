@@ -12,6 +12,11 @@ Current tasks:
 - 📄 My certification:
    <img src=https://github.com/xt4k/xt4k/assets/38681283/fb88d6b1-4215-4302-bec6-80dc47d9b057.png width="120" height="80">[ISTQB](https://drive.google.com/file/d/1xiyVZMxWk3xHfYW8O_lqckc2nKkxwGIf/view)
 
+  <img src=https://github.com/xt4k/xt4k/assets/38681283/5c4e2fb1-1621-40df-981e-8019a94b2b97.png width="80" height="80">[QA.GURU](https://drive.google.com/file/d/1LO3xxMA_kzw0-7x2RtgB_FLj_Bm4oIn-/view)
+
+![image](https://github.com/xt4k/xt4k/assets/38681283/5c4e2fb1-1621-40df-981e-8019a94b2b97)
+
+
 
 <h3 align="left">Technologies:</h3>
 <h4 align="left">Language:</h4>
