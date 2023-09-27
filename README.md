@@ -5,9 +5,14 @@
 
 Current tasks:
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> I'm learning [**Python automated testing stack**](https://www.udemy.com/course/learn-selenium-automation-in-easy-python-language) 
-- 👯 I’m looking to collaborate on **interested project with good reward**
+- <img src="https://github.com/xt4k/xt4k/assets/38681283/c18b5fbf-7d45-4b9f-b7c4-0047284d004c" width="80" height="80"> I’m looking to collaborate on **interested project with good reward**
+
+![image](https://github.com/xt4k/xt4k/assets/38681283/c18b5fbf-7d45-4b9f-b7c4-0047284d004c)
+
 
 [<h5 color="blue" align="center">Examples of projects developed by me in in pet-projects from are available<h5>](https://github.com/xt4k/)
+
+- 📄 About my experience: [<img src="https://github.com/xt4k/xt4k/assets/38681283/6d7bcb1f-05d1-4407-920c-cb47cf8528ba" alt="Google Drive" width="40" height="40">](https://drive.google.com/file/d/1hlIEvjjtrUosDYG3tRzkIG-fZm3-q6HS/view?usp=sharing)
 
 <h3 align="left">Technologies:</h3>
 <h4 align="left">Language:</h4>
