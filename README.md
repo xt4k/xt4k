@@ -18,6 +18,7 @@ Current tasks:
   <img src="https://github.com/xt4k/xt4k/assets/38681283/a17afe4a-e6f5-4c2f-8cf4-7ca3b23bec7c" width="60" height="60">[REST API testing](https://drive.google.com/file/d/12XyJNpJ45Ucu3_9H9N7THJZvPiVN6_gg/view),
   <img src="https://user-images.githubusercontent.com/38681283/120566097-335da880-c417-11eb-9e7b-248f6d5d4370.png" width="45" height="40">[REST API - Rest Assured](https://drive.google.com/file/d/1kz8Ar7-TgiIFJxxq620Puen2-g_jn1Ql/view),<space>
     <img src="https://github.com/xt4k/xt4k/assets/38681283/3cd94133-15ec-4af8-994a-adcec2e4e381" width="40" height="40">[SQL](https://drive.google.com/file/d/1kqaqujPYOg_D6t2SA58UXMSLG8SofkXq/view),
+  <br>
    <img src="https://github.com/xt4k/xt4k/assets/38681283/c646c3fc-cb80-4214-b917-80f163b6d620" width="40" height="40">+<img src="https://github.com/xt4k/xt4k/assets/38681283/8fc13c14-ffd5-4005-84d3-fc34fcad5469" width="40" height="40">[Docker & Kubernetes](https://drive.google.com/file/d/1bpx66lPSn9-leqZuC587fgkLQyW8OQSJ/view)
 
 ----
