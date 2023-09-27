@@ -11,7 +11,7 @@ Current tasks:
 
 - 📄 My certification: [![ISTQB](<img src="https://pbs.twimg.com/profile_images/928089986028658688/rDSOpCbC_400x400.jpg" width="40" height="40">)](https://drive.google.com/file/d/1xiyVZMxWk3xHfYW8O_lqckc2nKkxwGIf/view)
 
-
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 [![text](/assets/38681283/f3014f27-d3f1-49b5-ae4f-51c97f7a063a)](https://drive.google.com/file/d/1xiyVZMxWk3xHfYW8O_lqckc2nKkxwGIf/view)
 
