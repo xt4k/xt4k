@@ -13,7 +13,7 @@ Current tasks:
 
 111
 
-[[<img src="https://github.com/xt4k/xt4k/assets/38681283/f3014f27-d3f1-49b5-ae4f-51c97f7a063a" width="40" height="40">](https://drive.google.com/file/d/1xiyVZMxWk3xHfYW8O_lqckc2nKkxwGIf/view)]
+[[ISTQB]<img src="https://github.com/xt4k/xt4k/assets/38681283/f3014f27-d3f1-49b5-ae4f-51c97f7a063a" width="40" height="40">(https://drive.google.com/file/d/1xiyVZMxWk3xHfYW8O_lqckc2nKkxwGIf/view)]
 
 [![ISTQB CT](https://github.com/xt4k/xt4k/assets/38681283/f3014f27-d3f1-49b5-ae4f-51c97f7a063a)](https://drive.google.com/file/d/1xiyVZMxWk3xHfYW8O_lqckc2nKkxwGIf/view)
 
