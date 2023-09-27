@@ -15,6 +15,7 @@ Current tasks:
 
 -- train
 ![image](https://drive.google.com/uc?export=view&id=1913oZeBZPBNiUuk8gu3ZSbLBA2l_VQtG)
+![istqb-logo](https://github.com/xt4k/xt4k/assets/38681283/6177b8e9-e3f5-44d9-9677-9037e09f8a84)
 
 nnnn
 
