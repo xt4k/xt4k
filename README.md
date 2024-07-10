@@ -35,6 +35,12 @@ Status:
 |:----:|:-----:|:-----:|
 | <img src="https://user-images.githubusercontent.com/38681283/120562827-e0342780-c40f-11eb-9430-05ae54f145b1.png" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/7ab1794f-78fa-4ad5-b20e-1e686b1d7916" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/f99f6408-ba72-46d7-9e3b-def4c04d0d2c" width="60" height="60"> 
 
+<h4 align="left">Web:</h4>
+
+| Selenium | Selenide | Playwright |
+|:------------:|:-------:|:-------:|
+|<img src="https://github.com/xt4k/xt4k/assets/38681283/5e6c1429-1ccb-4ab8-a34e-e0aaeae94ce1" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/6bac3248-c6ef-4148-ab6a-2d3ae6257283" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/c6649760-744d-461e-a8f8-fd89de017e6f" width="60" height="60"> |
+
 <h4 align="left">Code Version Control:</h4>
 
 | Git | Bitbucket | Github | Gitlab | TortoiseSVN |
