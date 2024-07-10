@@ -33,13 +33,13 @@ Status:
 
 |Jenkins | Gitlab CI | Github Actions|
 |:----:|:-----:|:-----:|
-| <img src="https://user-images.githubusercontent.com/38681283/120562827-e0342780-c40f-11eb-9430-05ae54f145b1.png" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/7ab1794f-78fa-4ad5-b20e-1e686b1d7916" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/f99f6408-ba72-46d7-9e3b-def4c04d0d2c" width="60" height="60"> 
+| <img src="https://user-images.githubusercontent.com/38681283/120562827-e0342780-c40f-11eb-9430-05ae54f145b1.png" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/7ab1794f-78fa-4ad5-b20e-1e686b1d7916" width="80" height="80"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/f99f6408-ba72-46d7-9e3b-def4c04d0d2c" width="60" height="60"> 
 
 <h4 align="left">Web Testing:</h4>
 
 | Selenium | Selenide | Playwright |
 |:------------:|:-------:|:-------:|
-|<img src="https://github.com/xt4k/xt4k/assets/38681283/5e6c1429-1ccb-4ab8-a34e-e0aaeae94ce1" width="60" height="60"> | <img src="https://user-images.githubusercontent.com/38681283/120562458-1c1abd00-c40f-11eb-8ce8-2eb023f3e24f.png" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/9e10852a-a95f-4959-bce7-43cebf32e9d6" width="80" height="60"> |
+|<img src="https://github.com/xt4k/xt4k/assets/38681283/5e6c1429-1ccb-4ab8-a34e-e0aaeae94ce1" width="80" height="60"> | <img src="https://user-images.githubusercontent.com/38681283/120562458-1c1abd00-c40f-11eb-8ce8-2eb023f3e24f.png" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/9e10852a-a95f-4959-bce7-43cebf32e9d6" width="80" height="60"> |
 
 <h4 align="left">Code Version Control:</h4>
 
