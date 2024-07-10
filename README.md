@@ -105,9 +105,10 @@ Status:
 |:------------:|:---------:|:-------:|
 | <img src="https://user-images.githubusercontent.com/38681283/120562749-b5e26a00-c40f-11eb-91d9-641e254428c9.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/38681283/120562784-c692e000-c40f-11eb-8298-aa3858159184.png" width="50" height="50">| <img src="https://user-images.githubusercontent.com/38681283/248458847-7136dbda-f182-471f-9ee8-c8963e9cbd17.png" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/d4814b16-4bd6-4625-ba48-ae6e0b0fb822" width="60" height="60"> |
 
+<!-- 
 <h4 align="left">OS:</h4>
 
-<!-- | Linux | Windows |
+| Linux | Windows |
 |:------------:|:-------:|
 | <img src="https://github.com/xt4k/xt4k/assets/38681283/6bac3248-c6ef-4148-ab6a-2d3ae6257283" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/c6649760-744d-461e-a8f8-fd89de017e6f" width="60" height="60"> |
 -->
