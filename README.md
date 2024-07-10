@@ -79,14 +79,13 @@ Status:
 
 <h4 align="left">Java Tech:</h4>
 
-
 | Maven | TestNG | Junit5 | Gradle | Selenide|
 |:------:|:-----:|:-----:|:-----:|:-----:|
 | <img src="https://github.com/xt4k/xt4k/assets/38681283/e7d26381-c4d0-45e1-9e4d-2816584eb549" width="110" height="40"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/541bc58a-f9ae-4e23-8660-a622f9a3341f" width="110" height="60"> | <img src="https://user-images.githubusercontent.com/38681283/120562013-43bd5580-c40e-11eb-926f-1b8d3dc9e965.png" width="60" height="60"> | <img src="https://user-images.githubusercontent.com/38681283/120562398-fbeafe00-c40e-11eb-9fe7-3a641bf7115c.png" width="60" height="60"> | <img src="https://user-images.githubusercontent.com/38681283/120562458-1c1abd00-c40f-11eb-8ce8-2eb023f3e24f.png" width="60" height="60"> | 
 
 | Spring | SLF4J | JSP |
 |:-----:|:--------:|:--------:|
-| <img src="https://user-images.githubusercontent.com/38681283/248457688-2df513b9-56c6-42df-96a5-27b3ccf0e00d.png" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/daf55d4f-b490-45e1-9c10-33e61f7437a0" width="80" height="60"> | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/7fcc4497-4f1c-449d-85fa-4ee1fd1531c3.png" width="60" height="60"> |
+| <img src="https://user-images.githubusercontent.com/38681283/248457688-2df513b9-56c6-42df-96a5-27b3ccf0e00d.png" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/daf55d4f-b490-45e1-9c10-33e61f7437a0" width="100" height="100"> | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/7fcc4497-4f1c-449d-85fa-4ee1fd1531c3.png" width="60" height="60"> |
 
 <h4 align="left">Mobile Tech:</h4>
 
