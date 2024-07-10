@@ -126,8 +126,4 @@ Status:
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yuriy-logvinov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yuriy-logvinov/" height="30" width="40" /></a>
 </p-->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xt4k&show_icons=true&locale=en&layout=compact" alt="xt4k" /></p>
-
-<p><img align="center" src="https://xt4k-94tzy6k4l-xt4ks-projects.vercel.app/api?username=xt4k&show_icons=true&locale=en&layout=compact" alt="xt4k" /></p>
-
 - 👯 want to know more ? ... to be continued
