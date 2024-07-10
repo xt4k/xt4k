@@ -128,6 +128,6 @@ Status:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xt4k&show_icons=true&locale=en&layout=compact" alt="xt4k" /></p>
 
-<p><img align="center" src="https://github-readme-stats.xt4k.vercel.app/api?username=xt4k&show_icons=true&locale=en&layout=compact" alt="xt4k" /></p>
+<p><img align="center" src="https://xt4k.vercel.app/api?username=xt4k&show_icons=true&locale=en&layout=compact" alt="xt4k" /></p>
 
 - 👯 want to know more ? ... to be continued
