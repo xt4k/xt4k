@@ -85,7 +85,7 @@ Status:
 
 | Spring | SLF4J | JSP |
 |:-----:|:--------:|:--------:|
-| <img src="https://user-images.githubusercontent.com/38681283/248457688-2df513b9-56c6-42df-96a5-27b3ccf0e00d.png" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/daf55d4f-b490-45e1-9c10-33e61f7437a0" width="100" height="100"> | <img src="https://github.com/xt4k/spring.web_mvc_rest_security.restful_booker/assets/38681283/7fcc4497-4f1c-449d-85fa-4ee1fd1531c3.png" width="60" height="60"> |
+| <img src="https://user-images.githubusercontent.com/38681283/248457688-2df513b9-56c6-42df-96a5-27b3ccf0e00d.png" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/daf55d4f-b490-45e1-9c10-33e61f7437a0" width="100" height="100"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/91fdc3e6-ac0b-4f00-b880-e3ab1ebc0480" width="60" height="60"> |
 
 <h4 align="left">Mobile Tech:</h4>
 
