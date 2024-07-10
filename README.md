@@ -39,7 +39,7 @@ Status:
 
 | Selenium | Selenide | Playwright |
 |:------------:|:-------:|:-------:|
-|<img src="https://github.com/xt4k/xt4k/assets/38681283/5e6c1429-1ccb-4ab8-a34e-e0aaeae94ce1" width="60" height="60"> | <img src="https://user-images.githubusercontent.com/38681283/120562458-1c1abd00-c40f-11eb-8ce8-2eb023f3e24f.png" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/9e10852a-a95f-4959-bce7-43cebf32e9d6" width="60" height="60"> |
+|<img src="https://github.com/xt4k/xt4k/assets/38681283/5e6c1429-1ccb-4ab8-a34e-e0aaeae94ce1" width="60" height="60"> | <img src="https://user-images.githubusercontent.com/38681283/120562458-1c1abd00-c40f-11eb-8ce8-2eb023f3e24f.png" width="60" height="60"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/9e10852a-a95f-4959-bce7-43cebf32e9d6" width="60" height="80"> |
 
 <h4 align="left">Code Version Control:</h4>
 
