@@ -129,7 +129,7 @@ Status:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xt4k&show_icons=true&locale=en&layout=compact" alt="xt4k" /></p>
 
 <p><img align="center" src="https://xt4k.vercel.app/api?username=xt4k&show_icons=true&locale=en&layout=compact" alt="xt4k" /></p>
-<a href="https://github.com/xt4k/github-readme-stats">
+<a href="https://github.com/xt4k">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xt4k&repo=github-readme-stats" />
 </a>
 
