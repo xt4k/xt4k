@@ -8,13 +8,14 @@ Status:
 <img src="https://github.com/xt4k/xt4k/assets/38681283/6d7bcb1f-05d1-4407-920c-cb47cf8528ba" 
 -->
 
+
 -  <img src="https://github.com/xt4k/xt4k/assets/38681283/2d567816-76b7-4c98-8673-1e25f8a9d631" alt="Google Drive" width="60" height="60"> [Detailed CV:](https://drive.google.com/file/d/1pGpxggkCnCsJPWX1TarfrNlBdyfg2Swx/view?usp=sharing)
 
 - <img src="https://github.com/xt4k/xt4k/assets/38681283/53622f8b-7740-4a0b-9335-155d0257c825" width="60" height="60"> Certification:
   
-| [ISTQB](https://drive.google.com/file/d/1xiyVZMxWk3xHfYW8O_lqckc2nKkxwGIf/view) |Playwrignt| [QA.GURU](https://drive.google.com/file/d/1LO3xxMA_kzw0-7x2RtgB_FLj_Bm4oIn-/view) | [Postman](https://badgr.com/public/assertions/bIjUJD-yTQSy4FqwB-9SOw) | [Python & Selenium](https://drive.google.com/file/d/1a9UxIg6nCD3mmya-wq8YRb-TeGziA-yB/view) |
-|:--:|:--:|:--:|:--:|:--:|
-| <img src=https://github.com/xt4k/xt4k/assets/38681283/fb88d6b1-4215-4302-bec6-80dc47d9b057 width="60" height="60"> |<img src="https://github.com/xt4k/xt4k/assets/38681283/9e10852a-a95f-4959-bce7-43cebf32e9d6" width="50" height="40"> | <img src=https://github.com/xt4k/xt4k/assets/38681283/5c4e2fb1-1621-40df-981e-8019a94b2b97 width="30" height="30"> | <img src=https://github.com/xt4k/xt4k/assets/38681283/ad4672b4-2249-443a-8ff8-3477ac44c8bc width="30" height="30"> | <img src=https://github.com/xt4k/xt4k/assets/38681283/5285ed8c-75d7-429c-baa5-0af5239f619a width="30" height="30"> <img src=https://github.com/xt4k/xt4k/assets/38681283/5e6c1429-1ccb-4ab8-a34e-e0aaeae94ce1 width="30" height="30"> |
+| [ISTQB](https://drive.google.com/file/d/1xiyVZMxWk3xHfYW8O_lqckc2nKkxwGIf/view) |Playwrignt| GraphQL| [QA.GURU](https://drive.google.com/file/d/1LO3xxMA_kzw0-7x2RtgB_FLj_Bm4oIn-/view) | [Postman](https://badgr.com/public/assertions/bIjUJD-yTQSy4FqwB-9SOw) | [Python & Selenium](https://drive.google.com/file/d/1a9UxIg6nCD3mmya-wq8YRb-TeGziA-yB/view) |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| <img src=https://github.com/xt4k/xt4k/assets/38681283/fb88d6b1-4215-4302-bec6-80dc47d9b057 width="60" height="60"> |<img src="https://github.com/xt4k/xt4k/assets/38681283/9e10852a-a95f-4959-bce7-43cebf32e9d6" width="50" height="40"> |<img src=https://github.com/xt4k/xt4k/assets/38681283/0d5c3a1f-1c4a-480d-9993-23e634aa2a6c width="30" height="30"> | <img src=https://github.com/xt4k/xt4k/assets/38681283/5c4e2fb1-1621-40df-981e-8019a94b2b97 width="30" height="30"> | <img src=https://github.com/xt4k/xt4k/assets/38681283/ad4672b4-2249-443a-8ff8-3477ac44c8bc width="30" height="30"> | <img src=https://github.com/xt4k/xt4k/assets/38681283/5285ed8c-75d7-429c-baa5-0af5239f619a width="30" height="30"> <img src=https://github.com/xt4k/xt4k/assets/38681283/5e6c1429-1ccb-4ab8-a34e-e0aaeae94ce1 width="30" height="30"> |
 
 |[GIT](https://www.udemy.com/certificate/UC-6QHYTRHP) | [AWS](https://drive.google.com/file/d/1AUggNGA5SHwnBRwB_t45BWFBQ4Aup62y/view) | [SPRING](https://drive.google.com/file/d/19meN_MmW9o1ylAI-uR39ozEkvE5eMlq_/view) | [REST API testing](https://drive.google.com/file/d/12XyJNpJ45Ucu3_9H9N7THJZvPiVN6_gg/view) | [REST API - Rest Assured](https://drive.google.com/file/d/1kz8Ar7-TgiIFJxxq620Puen2-g_jn1Ql/view) | [SQL](https://drive.google.com/file/d/1kqaqujPYOg_D6t2SA58UXMSLG8SofkXq/view) | [Docker & Kubernetes](https://drive.google.com/file/d/1bpx66lPSn9-leqZuC587fgkLQyW8OQSJ/view) |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
