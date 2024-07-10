@@ -8,7 +8,7 @@ Status:
 <img src="https://github.com/xt4k/xt4k/assets/38681283/6d7bcb1f-05d1-4407-920c-cb47cf8528ba" 
 -->
 
--  <img src="https://github.com/xt4k/xt4k/assets/38681283/2d567816-76b7-4c98-8673-1e25f8a9d631" alt="Google Drive" width="60" height="60"> [About my experience in detail:](https://drive.google.com/file/d/1pGpxggkCnCsJPWX1TarfrNlBdyfg2Swx/view?usp=sharing)
+-  <img src="https://github.com/xt4k/xt4k/assets/38681283/2d567816-76b7-4c98-8673-1e25f8a9d631" alt="Google Drive" width="60" height="60"> [Detailed CV:](https://drive.google.com/file/d/1pGpxggkCnCsJPWX1TarfrNlBdyfg2Swx/view?usp=sharing)
 
 - <img src="https://github.com/xt4k/xt4k/assets/38681283/53622f8b-7740-4a0b-9335-155d0257c825" width="60" height="60"> Certificates:
   
