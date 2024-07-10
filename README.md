@@ -14,7 +14,9 @@ Status:
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | <img src=https://github.com/xt4k/xt4k/assets/38681283/fb88d6b1-4215-4302-bec6-80dc47d9b057 width="60" height="40"> | <img src=https://github.com/xt4k/xt4k/assets/38681283/5c4e2fb1-1621-40df-981e-8019a94b2b97 width="30" height="30"> | <img src=https://github.com/xt4k/xt4k/assets/38681283/ad4672b4-2249-443a-8ff8-3477ac44c8bc width="30" height="30"> | <img src=https://github.com/xt4k/xt4k/assets/38681283/5285ed8c-75d7-429c-baa5-0af5239f619a width="30" height="30"> <img src=https://github.com/xt4k/xt4k/assets/38681283/5e6c1429-1ccb-4ab8-a34e-e0aaeae94ce1 width="30" height="30"> | <img src=https://github.com/xt4k/xt4k/assets/38681283/69b32996-7bee-4a0b-8f50-f963965c05c1 width="60" height="40"> | <img src=https://github.com/xt4k/xt4k/assets/38681283/198c0889-e60d-4363-9895-e60fdd72d0f2 width="30" height="30"> | <img src=https://user-images.githubusercontent.com/38681283/248457688-2df513b9-56c6-42df-96a5-27b3ccf0e00d.png width="40" height="40"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/a17afe4a-e6f5-4c2f-8cf4-7ca3b23bec7c" width="60" height="60"> | <img src="https://user-images.githubusercontent.com/38681283/120566097-335da880-c417-11eb-9e7b-248f6d5d4370.png" width="45" height="40"> |  <img src="https://github.com/xt4k/xt4k/assets/38681283/3cd94133-15ec-4af8-994a-adcec2e4e381" width="40" height="40"> | <img src="https://github.com/xt4k/xt4k/assets/38681283/c646c3fc-cb80-4214-b917-80f163b6d620" width="40" height="40"><img src="https://github.com/xt4k/xt4k/assets/38681283/8fc13c14-ffd5-4005-84d3-fc34fcad5469" width="40" height="40"> |
 
-- <img src="https://github.com/xt4k/xt4k/assets/38681283/63aee872-c8f4-4130-8e23-7595de2a3e75" width="40" height="40"> My Technologies:
+ <!--img src="https://github.com/xt4k/xt4k/assets/38681283/63aee872-c8f4-4130-8e23-7595de2a3e75" width="40" height="40"> My Technologies:-->
+
+- <img src="https://github.com/xt4k/xt4k/assets/38681283/fe7bf81a-5a35-4f43-bbee-b03d96fff0de" width="60" height="60"> My Technologies:
 <h4 align="left">Language:</h4>
 
 | Java | Groovy | PowerShell | VBScript | Python |
